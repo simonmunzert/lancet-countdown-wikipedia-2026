@@ -1,0 +1,966 @@
+"Article" "Mean" "Maximum" "Total (Year)"
+"Climate change" 5179 736895 15134018
+"Carbon dioxide" 3281 8767 9587515
+"Atmosphere of Earth" 2761 21632 8068753
+"Greenhouse gas" 2708 10762 7911576
+"Renewable energy" 2541 84781 7424302
+"Greenhouse effect" 2041 17322 5963128
+"Ozone depletion" 1603 14988 4684341
+"Green New Deal" 1592 74908 4652333
+"Ozone" 1480 6124 4324441
+"Ozone layer" 1422 16813 4155759
+"Climate of India" 1380 5634 4033565
+"List of countries by carbon dioxide emissions" 1313 25686 3835681
+"Climate" 1269 6752 3708914
+"Highest temperature recorded on Earth" 1181 36875 3451527
+"Climate change denial" 939 9184 2742732
+"Sea level rise" 893 6178 2608892
+"Effects of global warming" 878 11750 2565630
+"Music of the Spheres World Tour" 861 13646 2516917
+"Intergovernmental Panel on Climate Change" 845 14659 2469717
+"Climate of Australia" 813 5939 2374492
+"Lowest temperature recorded on Earth" 730 17144 2131831
+"Climate of the United Kingdom" 656 34001 1915699
+"List of countries by carbon dioxide emissions per capita" 653 6876 1908292
+"Desert climate" 634 3654 1851285
+"Semi-arid climate" 628 7344 1833583
+"2021 United Nations Climate Change Conference" 622 67325 1816572
+"Climate change mitigation" 582 8566 1699205
+"Climate of the United States" 580 2675 1694779
+"Effects of climate change" 529 3954 1547080
+"Greenhouse gas emissions" 502 6002 1466027
+"List of extreme temperatures in Canada" 499 21048 1458103
+"Global warming potential" 482 2091 1407546
+"Climate of Dubai" 475 7200 1387288
+"Scientific consensus on climate change" 465 10796 1358321
+"Climate of the Philippines" 456 2895 1333830
+"History of climate change science" 428 27038 1250328
+"Ministry of Environment, Forest and Climate Change" 387 2878 1130557
+"Climate of New Zealand" 372 2507 1086044
+"Climate of Delhi" 361 4359 1054923
+"Extreme weather" 352 2086 1028162
+"Climatic Research Unit email controversy" 351 10200 1024829
+"Climate of South Africa" 343 1220 1001484
+"Climate of Ireland" 319 1468 931247
+"Tornado climatology" 319 9617 931713
+"Climate of Iceland" 309 4547 902798
+"List of countries by greenhouse gas emissions" 303 2976 886812
+"Climatology" 292 2430 854176
+"Climate of Pakistan" 285 5375 832181
+"Carbon dioxide removal" 280 4732 818075
+"Climate change adaptation" 272 2124 796239
+"2015 United Nations Climate Change Conference" 271 1868 790648
+"2023 United Nations Climate Change Conference" 263 27358 769266
+"Climate of Italy" 263 1620 769431
+"Carbon dioxide scrubber" 259 6102 757855
+"List of extreme weather records in Pakistan" 258 9920 755289
+"Climate of Argentina" 257 1891 751955
+"Supercritical carbon dioxide" 257 846 751559
+"Tipping points in the climate system" 255 7746 744992
+"Climate variability and change" 253 9610 740417
+"Climate of Mumbai" 246 1529 720099
+"2024 United Nations Climate Change Conference" 235 21055 686533
+"Geologic temperature record" 235 2887 686147
+"2022 United Nations Climate Change Conference" 234 23559 683827
+"Climate of Brazil" 228 1171 666544
+"Climate of Russia" 227 1231 662573
+"Runaway greenhouse effect" 224 1623 655552
+"Microclimate" 222 2656 649519
+"Climate of Spain" 210 2564 613560
+"List of countries by greenhouse gas emissions per capita" 207 3586 604066
+"Climate change in the United States" 203 2254 593362
+"Effects of global warming on humans" 201 2467 585908
+"Carbon emission trading" 200 1184 585728
+"Greenhouse and icehouse Earth" 195 3839 569730
+"Climate of Seoul" 193 1939 562911
+"Climate justice" 190 4571 555168
+"Arctic sea ice decline" 186 4727 543422
+"Climate of Scotland" 185 1119 539741
+"Climate of Vietnam" 185 1107 541797
+"100% renewable energy" 182 3156 532496
+"Climate of Egypt" 181 703 529622
+"C40 Cities Climate Leadership Group" 176 3467 513368
+"Climate fiction" 169 1932 493855
+"Climate change in the Arctic" 166 1072 484810
+"September 2019 climate strikes" 164 29469 479312
+"Climate of Finland" 162 1753 474030
+"Climate of Puerto Rico" 162 1771 473918
+"Climate change in Australia" 161 3062 469437
+"Trewartha climate classification" 160 1565 466145
+"Climate of Moscow" 158 714 460974
+"Deforestation and climate change" 158 1292 460344
+"Climate of Mexico" 157 413 458967
+"Effects of climate change on agriculture" 156 2965 457042
+"2019 United Nations Climate Change Conference" 155 6804 453210
+"Climate of Barcelona" 155 516 451670
+"Climate of Chile" 155 1778 453678
+"Climate crisis" 152 2311 443975
+"Carbon-neutral fuel" 150 2353 439562
+"Ministry of New and Renewable Energy" 150 1734 438015
+"Climate model" 148 9569 431928
+"United Nations Climate Change Conference" 148 3797 432434
+"Climate of Turkey" 147 1612 429095
+"Climate of Malta" 146 401 427365
+"Individual action on climate change" 146 1453 425522
+"Tropical cyclones and climate change" 144 5647 420324
+"Climate of Tasmania" 143 643 418588
+"Proxy (climate)" 142 675 414460
+"Climate Change Performance Index" 141 8825 412598
+"Climate of Tamil Nadu" 141 685 413405
+"Effects of global warming on human health" 140 1924 408026
+"IPCC Sixth Assessment Report" 139 14178 405313
+"Liquid carbon dioxide" 139 2471 405323
+"Climate change in India" 138 3477 403588
+"List of extreme temperatures in Australia" 138 2431 402073
+"Climate of Cyprus" 137 402 400078
+"Climate change in Africa" 135 22831 395001
+"Holocene climatic optimum" 133 5639 387677
+"International Renewable Energy Agency" 132 760 385008
+"IPCC Fifth Assessment Report" 132 1483 385214
+"Ice cap climate" 131 1284 381338
+"Climate change policy of the United States" 130 946 378795
+"Effects of climate change on human health" 130 994 379981
+"Tundra climate" 130 591 379047
+"Renewable energy commercialization" 128 2153 372890
+"Climate of Greece" 126 413 368654
+"Climate change in China" 125 723 365597
+"The Great Global Warming Swindle" 124 1544 362187
+"Climate of Nova Scotia" 123 660 360821
+"Climate sensitivity" 123 1895 358052
+"Climate of West Bengal" 122 1307 356457
+"Climate of Kolkata" 120 2338 351903
+"Temperature record of the last 2,000 years" 120 1302 350130
+"2025 United Nations Climate Change Conference" 119 8819 348429
+"Climate apocalypse" 117 1202 341783
+"List of periods and events in climate history" 117 1472 342475
+"Climate emergency declaration" 116 3989 339233
+"International Day for the Preservation of the Ozone Layer" 116 13788 339190
+"Climate of Peru" 115 541 336348
+"Portal:Renewable energy" 113 770 329045
+"2018 United Nations Climate Change Conference" 112 2820 327371
+"U.S. Special Presidential Envoy for Climate" 112 10051 326695
+"Climate change in Bangladesh" 110 9141 320570
+"Climate resilience" 110 1676 319985
+"Climate change in Pakistan" 109 7429 318725
+"Climate of Ghana" 109 1178 318287
+"Climate of Saudi Arabia" 109 523 319361
+"Climate movement" 108 742 314471
+"Earth rainfall climatology" 108 591 314887
+"Special Report on Global Warming of 1.5 °C" 108 1080 316638
+"Climate of Romania" 106 456 308552
+"Renewable Energy Certificate (United States)" 106 640 308655
+"Climate of Indonesia" 105 3581 307383
+"Carbon dioxide sensor" 104 596 303978
+"Climate of Madrid" 102 3027 298638
+"Climate change in South Africa" 99 3246 290129
+"Climate of Svalbard" 98 585 287218
+"Carbon-dioxide laser" 96 810 279476
+"Climate of Lisbon" 96 994 280271
+"Climate of Colombia" 95 571 278703
+"Electrochemical reduction of carbon dioxide" 93 833 271617
+"Climate change in Canada" 92 797 268032
+"Politics of climate change" 91 1462 265985
+"Life-cycle greenhouse gas emissions of energy sources" 90 1410 263277
+"Climate of Rajasthan" 89 374 261234
+"Effects of climate change on plant biodiversity" 89 762 259956
+"Ozone–oxygen cycle" 89 663 258919
+"Vienna Convention for the Protection of the Ozone Layer" 89 591 261077
+"Carbon dioxide (data page)" 88 864 258101
+"Climate of Ecuador" 88 499 257041
+"Climate of the Falkland Islands" 88 396 257116
+"United States rainfall climatology" 88 860 256011
+"Climate of China" 87 2558 255463
+"Abrupt climate change" 86 1330 250894
+"List of climate scientists" 86 620 252522
+"Climate of Uttar Pradesh" 85 692 248237
+"List of U.S. states and territories by carbon dioxide emissions" 84 2506 245999
+"Ozone depletion potential" 83 2132 242913
+"Public opinion on climate change" 83 387 242589
+"Climate of Bihar" 82 1128 239361
+"Climate change in Europe" 81 1225 236756
+"Climate of Himachal Pradesh" 78 1189 229333
+"Extinction risk from climate change" 78 697 227643
+"Global warming hiatus" 78 2199 227247
+"List of extreme temperatures in Germany" 78 2009 227517
+"United States Climate Alliance" 78 1126 228753
+"Climate change in the United Kingdom" 77 676 223828
+"Solar activity and climate" 77 12934 224958
+"Greenhouse gas emissions by China" 76 1475 221969
+"Climate of Buenos Aires" 75 600 220527
+"Climate of New England" 75 495 219697
+"List of extreme temperatures in Spain" 74 1710 216570
+"Effects of climate change on oceans" 73 1372 214335
+"National Action Plan for Climate Change" 73 1590 214406
+"Nuclear power proposed as renewable energy" 73 2065 213619
+"Reflective surfaces (climate engineering)" 73 684 212736
+"Climate change feedbacks" 72 1274 211247
+"Climate of Gujarat" 71 816 207204
+"German Renewable Energy Sources Act" 71 814 208507
+"Climate change in the Maldives" 70 11178 204585
+"Climate change vulnerability" 70 667 204436
+"Climate of Rome" 67 454 197119
+"Greenhouse gas emissions by Australia" 67 2071 194898
+"IPCC Fourth Assessment Report" 67 657 197190
+"2017 United Nations Climate Change Conference" 65 1112 189628
+"Climate change in New Zealand" 65 941 191159
+"Climate of Uruguay" 65 1270 188707
+"Greenhouse gas emissions from agriculture" 65 728 190401
+"Climate Change Act 2008" 64 1120 187551
+"Climate change in Japan" 64 839 186969
+"Glossary of climate change" 64 594 185967
+"Renewable energy in developing countries" 64 4478 187254
+"Climate change and poverty" 63 461 183832
+"Climate change in Russia" 63 340 184001
+"Climate of Estonia" 63 1010 185536
+"List of books about renewable energy" 63 486 184790
+"Climate of Nigeria" 62 1126 180435
+"Climate of Norway" 62 387 180367
+"Climate change in Antarctica" 61 926 177861
+"Climate change in the Middle East and North Africa" 61 751 179412
+"Media coverage of climate change" 61 518 177279
+"Climate change in the Philippines" 60 599 173988
+"Climate of France" 60 2561 174846
+"Climate of Paris" 60 581 176429
+"Climate of Sweden" 60 783 175748
+"Climate of Valencia" 60 639 176713
+"Greenhouse gas emissions by the United Kingdom" 60 2056 176379
+"Ground-level ozone" 60 994 174519
+"2019 UN Climate Action Summit" 59 3010 173296
+"Causes of climate change" 59 1079 172888
+"Climate change scenario" 59 599 170941
+"Climate of ancient Rome" 59 473 171552
+"Ozone depletion and climate change" 59 586 173688
+"Regional Greenhouse Gas Initiative" 59 1042 172502
+"Regulation of greenhouse gases under the Clean Air Act" 56 903 164668
+"Seawater greenhouse" 56 1120 164229
+"CO2 fertilization effect" 55 1375 160779
+"List of climate change initiatives" 55 1046 160870
+"Climate of Venezuela" 54 249 157165
+"2010 United Nations Climate Change Conference" 53 949 153966
+"Renewable energy industry" 53 353 154493
+"Climate categories in viticulture" 52 599 151037
+"Climate change in Turkey" 52 2700 151367
+"Climate of Zambia" 52 260 153057
+"List of extreme temperatures in Italy" 52 2537 152192
+"North African climate cycles" 52 12558 151845
+"Climate risk" 51 517 150261
+"Department for Energy Security and Net Zero" 51 899 148119
+"Global Warming Solutions Act of 2006" 51 594 149065
+"Climate Vulnerable Forum" 50 973 146230
+"Renewable energy debate" 50 966 145576
+"Climate-smart agriculture" 49 404 144209
+"Climatic regions of Argentina" 49 663 144094
+"2016 United Nations Climate Change Conference" 48 808 141621
+"Carbon dioxide cleaning" 48 2764 140341
+"Climate change and gender" 48 535 140330
+"Climate of Myanmar" 48 271 140439
+"Climate of Serbia" 48 294 138799
+"ExxonMobil climate change denial" 48 2166 139405
+"Impact of the Music of the Spheres World Tour" 48 10437 139361
+"National Climatic Data Center" 47 1446 137341
+"Climate change in Sweden" 46 395 133778
+"Climate change in the Caribbean" 46 224 133874
+"Climate of Azerbaijan" 46 605 133061
+"Climate of Budapest" 46 367 134543
+"World Climate Conference" 46 3465 133064
+"Climate of Albania" 45 276 130827
+"Office of Energy Efficiency and Renewable Energy" 45 533 131779
+"Climate change in South Korea" 44 360 128384
+"Climate of Hungary" 44 274 127925
+"Net-zero emissions" 44 939 127211
+"Potsdam Institute for Climate Impact Research" 44 1166 127577
+"2025 in climate change" 43 1994 125835
+"List of extreme temperatures in Sweden" 43 790 125909
+"2021 in climate change" 42 744 121743
+"Climate security" 42 809 123684
+"Climate 200" 41 9496 118668
+"Copper in renewable energy" 41 636 119136
+"List of extreme temperatures in France" 41 5081 119461
+"Climate change litigation" 40 1334 117128
+"The Great Derangement: Climate Change and the Unthinkable" 40 378 117333
+"Climate change in France" 39 1418 115071
+"Effects of climate change on the water cycle" 39 422 115382
+"2012 United Nations Climate Change Conference" 38 1065 110954
+"Chicago Climate Exchange" 38 507 111142
+"Climate Action Network" 38 607 112303
+"Climate change in Nigeria" 38 455 109813
+"Climate of Sochi" 38 496 111771
+"Economic analysis of climate change" 38 1728 109958
+"IPCC Third Assessment Report" 38 677 111443
+"2011 United Nations Climate Change Conference" 37 1525 108522
+"2024 in climate change" 37 920 106727
+"Climate of Paraguay" 37 134 109121
+"Greenhouse gas inventory" 37 705 107140
+"Last Interglacial" 37 2126 107702
+"List of extreme temperatures in Japan" 37 1683 109169
+"Antarctic sea ice" 36 383 106049
+"Business action on climate change" 36 975 105993
+"Climate of Ethiopia" 36 295 104702
+"Climate of Istanbul" 36 483 106108
+"Climate of the British Isles" 36 681 105685
+"Effects of climate change on small island countries" 36 347 103935
+"High-ozone shock treatment" 36 265 105228
+"Historical climatology" 36 276 104334
+"History of climate change policy and politics" 36 901 105059
+"Climate change and fisheries" 35 245 103435
+"Climate change in Brazil" 35 2128 102852
+"Climate change in Germany" 35 167 103201
+"Climate change in Indonesia" 35 446 102284
+"Climate of Agra" 35 1766 102408
+"IPCC First Assessment Report" 35 521 102160
+"List of renewable energy organizations" 35 602 102566
+"Nature Climate Change" 35 514 102159
+"United States House Select Committee on the Climate Crisis" 35 933 102161
+"Climate and Clean Air Coalition to Reduce Short-Lived Climate Pollutants" 34 339 100465
+"Climate change and infectious diseases" 34 1625 99900
+"Climate communication" 34 1525 98653
+"Climate Investment Funds" 34 227 99859
+"Glasgow Climate Pact" 34 1777 100392
+"Index of climate change articles" 34 245 98787
+"List of school climate strikes" 34 1593 100805
+"Climate change and cities" 33 432 96549
+"Climate change education" 33 617 96332
+"Climate change in popular culture" 33 285 96591
+"Climate change in Vietnam" 33 520 96616
+"Climate-friendly gardening" 33 837 97846
+"Dendroclimatology" 33 503 95807
+"Thornthwaite climate classification" 33 364 97790
+"Citizens' Climate Lobby" 32 614 93602
+"Climate change art" 32 394 92193
+"Climate change in Florida" 32 726 94124
+"Climate governance" 32 512 93719
+"National Climate Assessment" 32 1280 92205
+"Women in climate change" 32 604 92231
+"2007 United Nations Climate Change Conference" 31 493 90544
+"Climate action" 31 333 89341
+"Climate change and indigenous peoples" 31 947 90370
+"Climate of Armenia" 31 282 90604
+"Climate of Gibraltar" 31 376 90938
+"Climate change in Mexico" 30 366 87760
+"Climate of Manitoba" 30 133 88282
+"Greenhouse Gases Observing Satellite" 30 597 86820
+"Land surface effects on climate" 30 281 89106
+"Solar Renewable Energy Certificate" 30 520 88545
+"Climate change and civilizational collapse" 29 364 85291
+"Climate change and invasive species" 29 279 84709
+"Climate of Kosovo" 29 700 86109
+"Idealized greenhouse model" 29 787 84339
+"2013 United Nations Climate Change Conference" 28 1141 80638
+"2014 United Nations Climate Change Conference" 28 1376 81801
+"2022 in climate change" 28 582 80821
+"2023 in climate change" 28 538 82901
+"Camp for Climate Action" 28 622 80838
+"Carbon dioxide in the atmosphere of Earth" 28 871 82784
+"Climate change in Kenya" 28 1388 82427
+"Climate change in the Netherlands" 28 585 80562
+"List of renewable energy topics by country and territory" 28 696 82229
+"Climate change in Norway" 27 272 79750
+"Climate Change Levy" 27 1580 79494
+"Climate change policy of the George W. Bush administration" 27 254 79205
+"Climate of Bilbao" 27 353 78073
+"List of extreme temperatures in Denmark" 27 895 79689
+"Western Climate Initiative" 27 253 78596
+"A Green New Deal" 26 810 76353
+"Climate Change – The Facts" 26 781 77237
+"Climate change in Argentina" 26 457 74674
+"Climate change in Finland" 26 353 77305
+"Climate of Wales" 26 288 75198
+"Climate: Long range Investigation, Mapping, and Prediction" 26 730 76493
+"Psychological impact of climate change" 26 538 75504
+"Carbon dioxide reforming" 25 82 72261
+"Center for the Study of Carbon Dioxide and Global Change" 25 364 73226
+"Climate of Porto" 25 147 72618
+"Co-benefits of climate change mitigation" 25 1045 72600
+"International Conference on Climate Change" 25 1134 73932
+"List of extreme temperatures in Greece" 25 1007 74013
+"Renewable Energy (journal)" 25 569 72752
+"Climate change in Malaysia" 24 2270 68759
+"Climate migration" 24 1167 69473
+"Climatic geomorphology" 24 327 70225
+"European Climate Foundation" 24 237 71109
+"List of climate change books" 24 202 69318
+"Urban climate" 24 196 69352
+"Climate Action Tracker" 23 6947 67740
+"Climate change in Italy" 23 1086 68108
+"Climate change in Sri Lanka" 23 335 68327
+"Climate inertia" 23 510 66918
+"Climate of Cebu" 23 500 66045
+"Ed Hawkins (climatologist)" 23 2387 67991
+"Effects of climate change on mental health" 23 357 67550
+"Global Atmosphere Watch" 23 212 67147
+"Chemosphere (journal)" 22 406 64625
+"Climate Change Committee" 22 1108 63152
+"Climate change in Nepal" 22 147 63967
+"Climate change in New York City" 22 246 64556
+"Greenhouse gas monitoring" 22 366 64154
+"Lists of renewable energy topics" 22 186 63655
+"Mandatory renewable energy target" 22 132 63436
+"Special Report on Climate Change and Land" 22 443 64442
+"Climate change and insurance in the United States" 21 739 59913
+"Climate change in Thailand" 21 176 62074
+"Climate spiral" 21 1377 61693
+"Greenhouse Gas Pollution Pricing Act" 21 614 61342
+"List of climate change controversies" 21 503 59991
+"List of extreme temperatures in Portugal" 21 1765 61177
+"National Initiative on Climate Resilient Agriculture" 21 194 62663
+"Presidential Climate Action Plan" 21 297 62606
+"Psychology of climate change denial" 21 2403 61118
+"Youth Climate Movement" 21 191 61045
+"Climate change in Spain" 20 263 58536
+"Climate debt" 20 857 59714
+"Climate Leadership Council" 20 715 58355
+"European Climate Exchange" 20 99 57381
+"Space-based measurements of carbon dioxide" 20 226 58773
+"Carbon dioxide clathrate" 19 242 54964
+"Citizens Convention for Climate" 19 1752 54193
+"Climate across Cretaceous–Paleogene boundary" 19 216 54478
+"Climate change in Israel" 19 589 54287
+"Climate change, industry and society" 19 356 55085
+"Climate Disclosure Standards Board" 19 72 54834
+"Climatological normal" 19 536 56930
+"Effects of climate change on livestock" 19 341 54094
+"European Climate Change Programme" 19 249 56555
+"German Climate Action Plan 2050" 19 240 54338
+"Human rights and climate change" 19 173 56068
+"Tropospheric ozone depletion events" 19 252 54823
+"United Kingdom Climate Change Programme" 19 645 54937
+"APEC Climate Center" 18 253 52102
+"Climate and energy" 18 791 52658
+"Climate change and birds" 18 489 52406
+"Climate change in Greenland" 18 218 51710
+"Climate Week NYC" 18 491 51374
+"Greenhouse gas emissions by Russia" 18 339 52518
+"Humid temperate climate" 18 199 51251
+"Journal of Climate" 18 713 51597
+"List of ministers of climate change" 18 156 51954
+"Task Force on Climate-related Financial Disclosures" 18 180 52095
+"Asia-Pacific Partnership on Clean Development and Climate" 17 147 51052
+"Climate change in Asia" 17 3366 48767
+"Climate change in Ghana" 17 412 49527
+"Climate change in Scotland" 17 240 48478
+"Climate change in Taiwan" 17 188 49466
+"Climate Council" 17 213 48300
+"Department of Climate Change, Energy, the Environment and Water" 17 303 48977
+"Garnaut Climate Change Review" 17 1945 48708
+"Greenhouse gas emissions from wetlands" 17 215 49653
+"International Geosphere-Biosphere Programme" 17 126 49139
+"Punjab Renewable Energy Systems Pvt. Ltd." 17 210 48600
+"White House Office of Energy and Climate Change Policy" 17 594 49258
+"2005 United Nations Climate Change Conference" 16 737 45509
+"2020 in climate change" 16 226 45829
+"Criticism of the IPCC Fourth Assessment Report" 16 350 45310
+"East Asia Climate Partnership" 16 129 47610
+"European Union climate and energy package" 16 65 48153
+"Weyburn-Midale Carbon Dioxide Project" 16 164 47661
+"2 degree climate target" 15 189 42554
+"2008 United Nations Climate Change Conference" 15 207 42565
+"Australian Renewable Energy Agency" 15 145 43035
+"Campaign against Climate Change" 15 2034 44758
+"Carbon emission label" 15 258 44957
+"Climate change and children" 15 411 43666
+"Climate change in Iraq" 15 390 43548
+"Climate change in Morocco" 15 138 43335
+"Climate change in Tanzania" 15 161 43296
+"Climate risk insurance" 15 147 44650
+"Cloud formation and climate change" 15 1890 45248
+"Description of the Medieval Warm Period and Little Ice Age in IPCC reports" 15 102 44440
+"Effects of climate change on biomes" 15 177 44581
+"Fourth National Climate Assessment" 15 417 44335
+"Illustrative model of greenhouse effect on climate change" 15 390 44336
+"List of locations and entities by greenhouse gas emissions" 15 277 44445
+"List of statements by major scientific organizations about climate change" 15 321 43447
+"Palaeogeography, Palaeoclimatology, Palaeoecology" 15 272 42780
+"The New Climate War" 15 797 42894
+"United States House Select Committee on Energy Independence and Global Warming" 15 305 44528
+"Urban climatology" 15 188 44960
+"2017 People's Climate March" 14 486 39553
+"2019 in climate change" 14 207 39993
+"Climate change in Austria" 14 371 42090
+"Climate change in Iran" 14 208 39715
+"Global Climate Action Summit" 14 596 40617
+"Highland temperate climate" 14 111 41189
+"The Climate Mobilization" 14 182 40316
+"4 Degrees and Beyond International Climate Conference" 13 493 37033
+"Carbon dioxide generator" 13 147 37095
+"Climate change in Fiji" 13 84 36545
+"Climate change in Uganda" 13 3647 39105
+"Climate Leadership and Community Protection Act" 13 3632 38356
+"Climate of Cameroon" 13 282 39155
+"Cool It: The Skeptical Environmentalist's Guide to Global Warming" 13 391 38790
+"Global climate regime" 13 140 39276
+"Global Environmental Change" 13 141 37409
+"Global Warming Pollution Reduction Act of 2007" 13 300 39087
+"IPCC Summary for Policymakers" 13 660 36770
+"Renewable Energy Certificate System" 13 167 36869
+"Total Ozone Mapping Spectrometer" 13 123 36686
+"Vatican Climate Forest" 13 98 38939
+"2001 United Nations Climate Change Conference" 12 171 33759
+"2002 United Nations Climate Change Conference" 12 222 36218
+"2014 People's Climate March" 12 188 34399
+"Bioclimatology" 12 198 34530
+"Carbon Dioxide Information Analysis Center" 12 238 35384
+"Carbon Emission Reduction Target" 12 625 35920
+"Climate Audit" 12 1738 35757
+"Climate change and wildfires" 12 3282 35450
+"Climate change in Algeria" 12 201 35237
+"Climate change in North Korea" 12 280 34796
+"Climate change in the Republic of Ireland" 12 142 35802
+"Climate restoration" 12 252 35211
+"Climatic Change (journal)" 12 156 35416
+"Climatic Research Unit documents" 12 471 36018
+"Disability and climate change" 12 118 35240
+"Homogenization (climate)" 12 142 34945
+"Loss and damage (climate change)" 12 181 33974
+"Nongovernmental International Panel on Climate Change" 12 1311 35527
+"Recognizing the duty of the Federal Government to create a Green New Deal" 12 164 35355
+"Regional climate levels in viticulture" 12 194 36483
+"Renewable energy law" 12 708 34045
+"Tectonic–climatic interaction" 12 130 34589
+"Yale Program on Climate Change Communication" 12 117 36405
+"Action for Climate Empowerment" 11 333 31357
+"Arctic Climate Impact Assessment" 11 152 32821
+"Centre for Renewable Energy Systems Technology" 11 1461 31866
+"Climate and Development Knowledge Network" 11 342 32652
+"Climate Change and Sustainable Energy Act 2006" 11 472 32472
+"Climate Change Authority" 11 822 30836
+"Climate Change Denial Disorder" 11 254 31573
+"Climate change in Afghanistan" 11 183 32714
+"Climate change in Saskatchewan" 11 165 31884
+"Climate Dynamics" 11 150 32041
+"Climate of Thailand" 11 205 31795
+"Climate psychology" 11 724 31984
+"Climate Research (journal)" 11 68 30890
+"Climate TRACE" 11 1621 31512
+"Copenhagen climate summit" 11 228 32420
+"Global Historical Climatology Network" 11 119 31284
+"Greenhouse Solutions with Sustainable Energy" 11 104 31627
+"List of extreme temperatures in Finland" 11 775 32008
+"Photoelectrochemical reduction of carbon dioxide" 11 156 32121
+"Renewable Energy Payments" 11 484 31138
+"Scientific Assessment of Ozone Depletion" 11 160 32292
+"Soil-plant-atmosphere continuum" 11 168 33509
+"Subhumid temperate climate" 11 357 33490
+"White House Office of Domestic Climate Policy" 11 92 31036
+"Wuppertal Institute for Climate, Environment and Energy" 11 83 33087
+"2006 United Nations Climate Change Conference" 10 178 30381
+"2021 Leaders Summit on Climate" 10 234 29138
+"American Climate Corps" 10 1671 30387
+"Centre for International Climate and Environmental Research" 10 87 28101
+"Climate as complex networks" 10 317 30241
+"Climate change adaptation strategies on the German coast" 10 115 28140
+"Climate change and agriculture in the United States" 10 130 29680
+"Climate change in Cambodia" 10 128 28411
+"Climate change in Egypt" 10 254 28376
+"Climate change in Greece" 10 143 28932
+"Climate change in Madagascar" 10 2079 28384
+"Climate Justice Now!" 10 325 28528
+"Climate of Saint Petersburg" 10 147 29904
+"Climate Policy Initiative" 10 202 29926
+"Climate risk management" 10 89 29682
+"Climate Stewardship Acts" 10 518 28395
+"G8 Climate Change Roundtable" 10 162 29397
+"Renewable Energy Sources and Climate Change Mitigation" 10 69 29289
+"Sea ice thickness" 10 215 29458
+"Western Regional Climate Center" 10 686 29539
+"Climate change in Belgium" 9 73 26647
+"Climate change in Grenada" 9 382 26151
+"Climate change in Jordan" 9 143 25933
+"Climate change in Poland" 9 103 25010
+"Climate change in Senegal" 9 147 26857
+"Climate change in Somalia" 9 175 25660
+"Climate change in Suriname" 9 175 25709
+"Climate commitment" 9 106 26762
+"Climate emergency declarations in the United Kingdom" 9 297 26143
+"Climate ensemble" 9 149 27218
+"Climate Hawks Vote" 9 473 25229
+"Climate of Poland" 9 257 25176
+"Climate policy of China" 9 203 26266
+"Gorgon Carbon Dioxide Injection Project" 9 89 26893
+"Greenhouse debt" 9 2226 26197
+"Greenhouse Mafia" 9 292 26301
+"Indian Network on Climate Change Assessment" 9 190 25930
+"Indian Youth Climate Network" 9 204 24908
+"Sea ice growth processes" 9 198 25541
+"World People's Conference on Climate Change" 9 58 26026
+"2004 United Nations Climate Change Conference" 8 162 23568
+"2014 UN Climate Summit" 8 128 22991
+"Attorney General of Virginia's climate science investigation" 8 430 22835
+"California Climate Credit" 8 256 23168
+"Climate Alliance" 8 151 22967
+"Climate change in Ethiopia" 8 245 22083
+"Climate change in Guatemala" 8 67 23058
+"Climate change in Liberia" 8 148 23420
+"Climate change video game" 8 191 23254
+"Climate Commission" 8 619 23389
+"Climate of Bangladesh" 8 106 24383
+"Climate Vulnerability Monitor" 8 165 24193
+"Euro-Mediterranean Center on Climate Change" 8 252 24790
+"European Climate, Infrastructure and Environment Executive Agency" 8 78 23995
+"European Renewable Energy Council" 8 163 21922
+"Evangelical Climate Initiative" 8 642 22099
+"Exposing Microorganisms in the Stratosphere" 8 157 24068
+"Global Covenant of Mayors for Climate & Energy" 8 385 23304
+"Land surface models (climate)" 8 510 22674
+"List of abbreviations relating to climate change" 8 248 24107
+"List of climate research satellites" 8 199 23900
+"List of films about renewable energy" 8 117 24750
+"National Renewable Energy Action Plan" 8 120 23686
+"Ozone monitoring instrument" 8 439 22483
+"Table of historic and prehistoric climate indicators" 8 904 22060
+"The Discovery of Global Warming" 8 368 22189
+"U.S. Climate Action Partnership" 8 90 23481
+"Western Hemisphere Warm Pool" 8 119 23780
+"2003 United Nations Climate Change Conference" 7 153 21060
+"Carbon dioxide angiography" 7 63 20617
+"Carbon neutrality in the United States" 7 155 19084
+"Cities for Climate Protection program" 7 114 19223
+"Climate change in Azerbaijan" 7 366 20068
+"Climate change in Cyprus" 7 98 19453
+"Climate change in Honduras" 7 59 21535
+"Climate change in Kyrgyzstan" 7 113 20046
+"Climate change in Singapore" 7 137 20155
+"Climate emergency declarations in Australia" 7 1325 21304
+"Climate of Taiwan" 7 142 21606
+"Climate reparations" 7 165 21878
+"Climate target" 7 116 20221
+"Compressed carbon dioxide energy storage" 7 633 21595
+"Decarbonisation measures in proposed UK electricity market reform" 7 372 20548
+"Decarbonization of shipping" 7 7607 19127
+"Extreme weather post-traumatic stress disorder" 7 207 19623
+"Global Climate March" 7 207 21318
+"International Journal of Climatology" 7 119 19695
+"Journal of Applied Meteorology and Climatology" 7 181 21169
+"List of climate engineering topics" 7 135 19576
+"List of women climate scientists and activists" 7 469 20750
+"Mercator Research Institute on Global Commons and Climate Change" 7 70 19975
+"New Zealand Climate Science Coalition" 7 227 21661
+"Nigeria Renewable Energy Master Plan" 7 113 19666
+"People's Climate Movement" 7 98 20603
+"Photochemical reduction of carbon dioxide" 7 109 20994
+"Renewable energy cooperative" 7 130 21879
+"Renewable Energy Directive 2018" 7 66 21840
+"The Climate Registry" 7 47 20179
+"The Islamic Declaration on Global Climate Change" 7 130 19794
+"1998 United Nations Climate Change Conference" 6 66 18130
+"Advisory Group on Greenhouse Gases" 6 202 16164
+"Avoiding Dangerous Climate Change (2005 conference)" 6 262 17924
+"Bangladesh Climate Change Trust" 6 109 18038
+"California Climate Executive Orders" 6 81 18663
+"Carbon Neutrality Coalition" 6 702 16179
+"Centre for Climate Change Economics and Policy" 6 117 18142
+"Climate Capitalism" 6 30 18413
+"Climate Change (Scotland) Act 2009" 6 132 16443
+"Climate change adaptation in the Philippines" 6 109 17375
+"Climate change in Botswana" 6 85 16501
+"Climate change in Luxembourg" 6 130 17075
+"Climate change in Myanmar" 6 696 16618
+"Climate change in the Marshall Islands" 6 73 18016
+"Climate change in the United Arab Emirates" 6 401 18923
+"Climate change in Zimbabwe" 6 113 17250
+"Climate Policy (journal)" 6 139 18869
+"Climate-friendly school" 6 98 16414
+"CO2balance" 6 244 17047
+"IPCC supplementary report, 1992" 6 87 16073
+"List of areas depopulated due to climate change" 6 440 16200
+"Mayors National Climate Action Agenda" 6 98 17415
+"Middle Miocene Climatic Optimum" 6 99 16931
+"Millennium Alliance for Humanity and the Biosphere" 6 88 16216
+"Ministry of Climate, Energy and Utilities (Denmark)" 6 166 17489
+"Mumbai Climate Action Plan" 6 89 16575
+"Pan-Canadian Framework on Clean Growth and Climate Change" 6 181 16184
+"Reference re Greenhouse Gas Pollution Pricing Act" 6 256 18458
+"Renewable energy sculpture" 6 76 18859
+"Singularity (climate)" 6 75 18294
+"State of the Climate" 6 64 17903
+"Theoretical and Applied Climatology" 6 138 18510
+"United Kingdom National Renewable Energy Action Plan" 6 36 16092
+"Agency for New and Renewable Energy Research and Technology" 5 151 14032
+"Amundsen-Nobile Climate Change Tower" 5 56 14991
+"Boston Green New Deal" 5 221 14799
+"Carbon neutrality in India" 5 232 15620
+"Climate change and food security in Africa" 5 380 13320
+"Climate change in Namibia" 5 142 15654
+"Climate change in Papua New Guinea" 5 7076 13569
+"Climate change in Saudi Arabia" 5 124 13696
+"Climate change in Sudan" 5 83 15034
+"Climate change in the Gambia" 5 127 13953
+"Climate change in Uruguay" 5 65 15888
+"Climate Change Response (Emissions Trading) Amendment Act 2008" 5 97 13934
+"Climate Change: Global Risks, Challenges and Decisions" 5 115 13666
+"Climate Data Operators" 5 120 15295
+"Climate gentrification" 5 754 13439
+"Climate Justice Action" 5 43 14558
+"Climate of Morocco" 5 113 15419
+"Climate of South Brazil" 5 132 15921
+"Climate-Alliance Germany" 5 73 14756
+"Direct deep-sea carbon dioxide injection" 5 133 15835
+"Early Eocene Climatic Optimum" 5 232 13299
+"Effects of climate change on health in the United Kingdom" 5 1118 15570
+"Germany National Renewable Energy Action Plan" 5 65 15263
+"Global Warming: The Signs and The Science" 5 36 13635
+"Great March for Climate Action" 5 130 14163
+"Greenhouse Development Rights" 5 96 14625
+"Greenhouse Gases Observing Satellite-2" 5 134 13625
+"Indigenous Peoples Climate Change Assessment Initiative" 5 114 13755
+"International Indigenous Peoples Forum on Climate Change" 5 81 13823
+"List of extreme temperatures in Vatican City" 5 141 15843
+"List of landmarks destroyed or damaged by climate change" 5 1208 15619
+"List of planned renewable energy projects" 5 80 15197
+"London Climate Change Agency" 5 127 14407
+"Midwestern Greenhouse Gas Reduction Accord" 5 47 14491
+"Ministry of Electricity, Water and Renewable Energy (Kuwait)" 5 61 14959
+"Monsoon continental climate" 5 113 13962
+"Muslim Seven Year Action Plan on Climate Change" 5 55 14153
+"New South Wales Greenhouse Gas Abatement Scheme" 5 42 13500
+"Ozone Mapping and Profiler Suite" 5 32 13372
+"Renewable Energy Certificates Registry" 5 112 14580
+"Sea level rise in New Zealand" 5 100 15602
+"Tarawa Climate Change Conference" 5 87 15301
+"Territorial Approach to Climate Change" 5 89 14545
+"The Greenhouse Conspiracy" 5 472 15998
+"Timeline of international climate politics" 5 82 14015
+"United Nations Special Envoy on Climate Change" 5 186 14795
+"World Climate Programme" 5 69 15408
+"World Council for Renewable Energy" 5 83 13562
+"2000 United Nations Climate Change Conference" 4 285 12003
+"2026 United Nations Climate Change Conference" 4 1286 12127
+"American Association of State Climatologists" 4 83 11492
+"Australian Greenhouse Office" 4 44 13132
+"Bangladesh Climate Change Resilience Fund" 4 35 10534
+"Bjerknes Centre for Climate Research" 4 140 11433
+"Boulder Climate Action Plan" 4 322 10297
+"Centre for Renewable Energy" 4 22 12318
+"Chicago Climate Action Plan" 4 33 11662
+"Civil Society Coalition on Climate Change" 4 29 10528
+"Climate appraisal" 4 80 10600
+"Climate Case Ireland" 4 70 11379
+"Climate change and crime" 4 88 13121
+"Climate Change Commission" 4 127 12575
+"Climate change in Brunei" 4 64 12711
+"Climate change in Eswatini" 4 68 11024
+"Climate change in Kuwait" 4 90 12267
+"Climate change in Lesotho" 4 59 11054
+"Climate change in Libya" 4 131 10554
+"Climate change in Malawi" 4 43 11264
+"Climate change in Mozambique" 4 126 10922
+"Climate change in Nicaragua" 4 132 12945
+"Climate change in South Sudan" 4 85 11983
+"Climate change in Syria" 4 119 11366
+"Climate change in Tunisia" 4 136 10596
+"Climate change litigation and the California Environmental Quality Act" 4 60 10539
+"Climate change mitigation framework" 4 132 12024
+"Climate Change Response Act 2002" 4 42 12469
+"Climate Change TV" 4 47 10790
+"Climate Defiance" 4 132 10402
+"Climate of Southeast Brazil" 4 51 11122
+"Committee on Climate Change Science and Technology Integration" 4 56 10959
+"Economists' Statement on Climate Change" 4 833 12438
+"Ecosphere (social enterprise)" 4 45 11437
+"Effects of climate change on the tropics" 4 105 11368
+"Fennec (climate program)" 4 35 10266
+"Freedom of Information requests to the Climatic Research Unit" 4 90 11241
+"Global Climate Action (portal)" 4 160 11784
+"Global Warming: What You Need to Know" 4 35 13063
+"High Level Advisory Group on Climate Financing" 4 69 10735
+"International Climate Change Partnership" 4 27 11443
+"International Comprehensive Ocean-Atmosphere Data Set" 4 62 12867
+"International Journal of Greenhouse Gas Control" 4 63 10477
+"International Satellite Cloud Climatology Project" 4 444 12427
+"List of climate activists" 4 197 12226
+"Low Carbon Communities" 4 95 11336
+"Middle Eocene Climatic Optimum" 4 43 12014
+"Morphoclimatic zones" 4 59 11649
+"National Climate Change Secretariat" 4 166 12070
+"National Council on Climate Change" 4 109 10643
+"Noordwijk Climate Conference" 4 266 12934
+"OneClimate" 4 184 11606
+"Pacific Climate Warriors" 4 46 12203
+"Rapid Climate Change-Meridional Overturning Circulation and Heatflux Array" 4 33 10321
+"San Francisco Climate Action Plan" 4 36 10952
+"Scorcher: The Dirty Politics of Climate Change" 4 43 10683
+"Sea ice emissivity modelling" 4 240 12941
+"Starving for honesty climate hunger strike, Berlin, Germany" 4 705 10304
+"Surface Ocean Lower Atmosphere Study" 4 110 12189
+"The Doubt Machine: Inside the Koch Brothers' War on Climate Science" 4 66 10623
+"Transient climate simulation" 4 73 13113
+"UK Climate Assembly" 4 174 11638
+"UK Health Alliance on Climate Change" 4 293 10918
+"Weather, Climate, and Society" 4 28 11156
+"World Renewable Energy Network" 4 293 10381
+"World Wide Views on Global Warming" 4 97 10355
+"1995 United Nations Climate Change Conference" 3 284 8921
+"1997 United Nations Climate Change Conference" 3 285 7833
+"Asilomar International Conference on Climate Intervention Technologies" 3 52 9113
+"Association for Renewable Energy and Clean Technology" 3 179 10175
+"Aviation and climate change" 3 325 7886
+"Bali Declaration by Climate Scientists" 3 30 8439
+"Biber-Danube interglacial" 3 66 8904
+"Center for Negative Carbon Emissions" 3 128 10115
+"Climate and Development" 3 45 10123
+"Climate and vegetation interactions in the Arctic" 3 71 8631
+"Climate Cardinals" 3 127 8990
+"Climate Change Agreement (UK)" 3 421 8518
+"Climate Change and Emissions Management Amendment Act" 3 44 10049
+"Climate change in Eritrea" 3 142 9969
+"Climate change in Iceland" 3 90 8713
+"Climate change in Malta" 3 47 7325
+"Climate change in Mongolia" 3 99 8978
+"Climate change in Portugal" 3 40 7931
+"Climate change in Slovakia" 3 300 7641
+"Climate club" 3 80 7809
+"Climate Crisis Advisory Group" 3 112 9779
+"Climate Doctrine of the Russian Federation" 3 84 9227
+"Climate Law and Governance Initiative" 3 42 7629
+"Climate Mirror" 3 88 9688
+"Climate Nexus" 3 80 8956
+"Climate Vulnerability Index" 3 63 7424
+"CO2 is Green" 3 70 10213
+"Danube-Gunz interglacial" 3 44 8761
+"Effects of climate change on health in the Philippines" 3 174 9731
+"European Climate Forum" 3 137 9322
+"Forward on Climate" 3 34 8289
+"Generation Climate Europe" 3 168 8712
+"German Climate Consortium" 3 61 7695
+"Global Climate and Energy Project" 3 41 9579
+"Global Climate Network" 3 85 8056
+"Global Day of Climate Action 2020" 3 159 9373
+"Global Paleoclimate Indicators" 3 51 8680
+"Grande-Synthe climate case" 3 153 7643
+"Gussing Renewable Energy" 3 54 8082
+"How to Prepare for Climate Change" 3 70 8896
+"India Climate Collaborative" 3 59 7949
+"Interim Climate Change Committee" 3 82 9027
+"Journal for Geoclimatic Studies" 3 50 7311
+"Low Carbon Vehicle Event" 3 66 8012
+"Ministry of Environment and Climate Change (Qatar)" 3 104 9593
+"Monthly Climatic Data for the World" 3 116 7704
+"New England Governors and Eastern Canadian Premiers Climate Change Action Plan 2001" 3 31 9701
+"Pan African Climate Justice Alliance" 3 78 8837
+"Pastoral Greenhouse Gas Research Consortium" 3 17 7323
+"Peter Cox (climatologist)" 3 109 9308
+"Poland National Renewable Energy Action Plan" 3 59 9364
+"Premier's Climate Change Council" 3 67 8295
+"Program for Climate Model Diagnosis and Intercomparison" 3 102 7430
+"San Diego Climate Action Plan" 3 62 9683
+"Save the Climate" 3 71 8957
+"Sea level rise in Venice" 3 85 8004
+"Supercritical carbon dioxide blend" 3 142 8698
+"Sweden National Renewable Energy Action Plan" 3 35 9212
+"Tianjin Climate Exchange" 3 26 9301
+"U.S. Climate Change Technology Program" 3 42 8102
+"Urbanization and Global Environmental Change Project" 3 24 7726
+"Wadebridge Renewable Energy Network" 3 33 8747
+"World Climate Change Conference, Moscow" 3 31 7770
+"World Mayors Council on Climate Change" 3 40 8328
+"XCO2" 3 31 9744
+"1996 United Nations Climate Change Conference" 2 284 6774
+"1999 United Nations Climate Change Conference" 2 285 7302
+"2001 United Nations Climate Change Conference (Bonn)" 2 286 7059
+"Climate Action Africa" 2 439 5781
+"Climate Action Network Latin America" 2 240 6689
+"Climate change adaptation in Ghana" 2 79 5809
+"Climate Change and Energy Transition Act" 2 64 6820
+"Climate change and society" 2 44 6275
+"Climate change in Bosnia and Herzegovina" 2 49 6601
+"Climate change in British Columbia" 2 56 4499
+"Climate change in Burundi" 2 45 6253
+"Climate change in Chile" 2 43 7117
+"Climate change in Georgia (country)" 2 45 6781
+"Climate change in Kiribati" 2 75 6302
+"Climate change in Mali" 2 47 6811
+"Climate change in Mauritius" 2 151 6090
+"Climate change in music" 2 105 5137
+"Climate change in New Brunswick" 2 116 6159
+"Climate change in the Democratic Republic of the Congo" 2 41 7016
+"Climate change in the Pacific Islands" 2 162 7246
+"Climate change in Zambia" 2 24 6452
+"Climate emergency declarations in New Zealand" 2 165 6653
+"Climate migration and water rights" 2 145 4417
+"Climate of the Cook Islands" 2 26 6773
+"Climate prediction" 2 36 7052
+"Climate Solutions Road Tour" 2 50 7104
+"Climatism" 2 87 5036
+"Copenhagen Climate Challenge" 2 107 7029
+"Cultural heritage at risk from climate change" 2 220 7038
+"Department of Climate, Energy and the Environment" 2 69 4643
+"EU Day for the Victims of the Global Climate Crisis" 2 318 4544
+"European Assembly for Climate Justice" 2 72 6517
+"Gallery Climate Coalition" 2 123 5149
+"Ghana Climate Innovation Centre" 2 231 5317
+"Global Climate and Health Alliance" 2 61 7031
+"Global Roundtable on Climate Change" 2 21 7217
+"Heat waves and climate change" 2 710 5437
+"High Council on Climate" 2 99 6284
+"IMO Net-Zero Framework" 2 190 6532
+"Jockey Club Museum of Climate Change" 2 105 5048
+"Johannesburg Renewable Energy Coalition" 2 21 6901
+"Maldivian Youth Climate Network" 2 18 6476
+"Mars carbon dioxide ice cloud" 2 232 6495
+"Ministry of Climate Policy and Green Growth" 2 42 6577
+"National Oceanic and Atmospheric Administration Climate and Societal Interactions Program" 2 18 5995
+"National Solar Conference and World Renewable Energy Forum 2012" 2 26 6101
+"New and Renewable Energy Authority" 2 49 7189
+"Pan-African Media Alliance on Climate Change" 2 28 5655
+"Presbyterian Church (U.S.A.) Carbon Neutral Resolution" 2 29 6404
+"Program on Energy Efficiency in Artisanal Brick Kilns in Latin America to Mitigate Climate Change" 2 92 6627
+"Renewable energy and mining" 2 25 4408
+"South Pacific Sea Level and Climate Monitoring Project" 2 43 5664
+"Stratospheric Processes And their Role in Climate" 2 46 6413
+"Template:Climate change in Canada" 2 16 4625
+"Template:Climate-change-stub" 2 85 6501
+"Transatlantic Climate Bridge" 2 39 6887
+"VAMOS Ocean-Cloud-Atmosphere-Land Study" 2 137 6996
+"Whole Atmosphere Community Climate Model" 2 68 6147
+"1st Special Envoy for Drought and climate change of Somalia" 1 125 3711
+"2027 United Nations Climate Change Conference" 1 382 3520
+"African Climate Policy Centre" 1 86 3566
+"Canadian Centre for Climate Modelling and Analysis" 1 19 3984
+"Carbon dioxide recorder" 1 44 4208
+"Climate and Environment Sciences Laboratory" 1 59 3903
+"Climate change and sexual and reproductive health and rights in Africa" 1 69 3654
+"Climate change and the Syrian civil war" 1 68 3008
+"Climate change in Alberta" 1 38 4332
+"Climate change in Cape Verde" 1 40 4140
+"Climate change in Central Asia" 1 58 3483
+"Climate change in Guinea-Bissau" 1 31 3545
+"Climate change in London" 1 27 2985
+"Climate change in Saint Kitts and Nevis" 1 102 3845
+"Climate change in Saint Lucia" 1 80 4011
+"Climate change in Samoa" 1 75 3763
+"Climate change in Seychelles" 1 44 3782
+"Climate change in Southeast Asia" 1 44 3670
+"Climate change in the Northern Mariana Islands" 1 74 2953
+"Climate change in Western Australia" 1 34 3709
+"Climate Change Isn't Everything: Liberating Climate Politics from Alarmism" 1 39 3958
+"Climate change protests in Australia" 1 53 4150
+"Climate Denial Crock of the Week" 1 12 4307
+"Climate Fiction Prize" 1 97 3871
+"Climate finance in the United States" 1 112 3294
+"Climate finance in Zimbabwe" 1 58 4035
+"Climate Heritage Network" 1 90 3233
+"Climate Severity Index" 1 150 3373
+"College of Climate Change and Environmental Science" 1 17 4195
+"COP8 (climate conference)" 1 11 3048
+"Effects of climate change on hantavirus" 1 330 3827
+"Effects of global warming on the United Arab Emirates" 1 37 3713
+"Ethics of climate change" 1 48 4300
+"Exploring Climate Cooling Programme" 1 93 3224
+"Glacial geoengineering" 1 111 4086
+"Global Climate Action Partnership" 1 25 3143
+"Greenhouse gas emissions by Indonesia" 1 29 3127
+"Greenhouse gas emissions by Iran" 1 59 3107
+"Greenhouse gas emissions by Malaysia" 1 45 3142
+"Human climate niche" 1 101 4119
+"Migration and Global Environmental Change" 1 14 3388
+"Ministry of Climate Change and Environmental Coordination" 1 43 3380
+"Monitoring of geological carbon dioxide storage" 1 151 3122
+"Nigeria's Climate Change Act, 2021" 1 55 3664
+"Obligations of States in respect of climate change" 1 450 3162
+"Politics of climate change in the United States" 1 13 2929
+"Sharply continental climate" 1 599 2960
+"Space for Climate Observatory" 1 34 3398
+"Template:Climate-change-book-stub" 1 58 3716
+"Template:Climate-change-doc-film-stub" 1 17 3443
+"Thermal Equilibrium of the Atmosphere with a Given Distribution of Relative Humidity" 1 774 4361
+"Transient climate response" 1 84 3070
+"Walloon platform for the IPCC" 1 46 4144

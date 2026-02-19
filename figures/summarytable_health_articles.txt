@@ -1,0 +1,1404 @@
+"Article" "Mean" "Maximum" "Total(Year)"
+"COVID-19 pandemic" 17212 261333 50293161
+"Pneumonia" 6452 56391 18851473
+"Crohn's disease" 6260 47818 18292699
+"World Health Organization" 5819 173208 17001805
+"Lyme disease" 5664 297526 16548922
+"Parkinson's disease" 5375 38900 15705426
+"Pandemic" 3709 517220 10839003
+"Air pollution" 3608 11082 10543196
+"Huntington's disease" 3532 60134 10319252
+"Measles" 3492 33535 10202868
+"Chronic obstructive pulmonary disease" 3033 14977 8863320
+"Malaria" 3026 30251 8841215
+"Addison's disease" 2560 30990 7480069
+"Human papillomavirus infection" 2516 12156 7351660
+"Kawasaki disease" 2211 84381 6460326
+"Disease" 2088 9485 6102290
+"Graves' disease" 2082 66203 6082527
+"Mental disorder" 2059 23735 6016475
+"Autoimmune disease" 2043 9652 5969341
+"Creutzfeldt–Jakob disease" 2035 47298 5946309
+"Sickle cell disease" 2012 33979 5880416
+"Plague (disease)" 1862 35974 5440107
+"Health care" 1792 15879 5236628
+"Coronary artery disease" 1780 7109 5200109
+"Cardiovascular disease" 1731 9701 5056669
+"Mental health" 1713 53494 5005640
+"Malnutrition" 1636 234735 4779809
+"Variant Creutzfeldt–Jakob disease" 1593 12813 4655249
+"Sexually transmitted infection" 1531 7018 4472608
+"2009 swine flu pandemic" 1499 53293 4381466
+"Legionnaires' disease" 1469 20473 4291624
+"Infection" 1418 6720 4143745
+"Nutrition" 1384 6368 4044001
+"Lobar pneumonia" 1354 33233 3955979
+"Epidemiology" 1318 12573 3852220
+"Diagnostic and Statistical Manual of Mental Disorders" 1293 5283 3778454
+"Charcot–Marie–Tooth disease" 1192 50529 3481986
+"Public health" 1189 17073 3474567
+"Occupational safety and health" 1176 7842 3435114
+"SARS-CoV-2" 1057 24381 3087854
+"Germ theory of disease" 1046 87835 3057410
+"Epidemic" 992 25474 2899293
+"List of epidemics and pandemics" 968 36048 2827558
+"Chagas disease" 934 39145 2730442
+"Health insurance" 914 11027 2669443
+"Inflammatory bowel disease" 907 3951 2649948
+"List of mental disorders" 901 7125 2633722
+"Comorbidity" 894 19750 2612308
+"Adult-onset Still's disease" 868 51247 2537236
+"Foot-and-mouth disease" 859 6201 2509563
+"Chronic kidney disease" 831 22386 2428592
+"List of human disease case fatality rates" 774 94305 2262331
+"Bronchopneumonia" 764 13161 2231130
+"Streptococcus pneumoniae" 749 10432 2188451
+"Tay–Sachs disease" 749 6810 2188863
+"Universal health care" 724 12380 2114454
+"Foodborne illness" 720 2166 2104292
+"Nipah virus infection" 711 38186 2078982
+"Single-payer healthcare" 711 8281 2077298
+"Mass psychogenic illness" 669 22433 1954509
+"Infant mortality" 659 56719 1924754
+"List of fictional diseases" 654 2152 1909972
+"Influenza pandemic" 647 39284 1890137
+"Quantum suicide and immortality" 641 7352 1874323
+"Cat-scratch disease" 626 6598 1828046
+"Plant nutrition" 620 2101 1812825
+"Pinworm infection" 598 5464 1745908
+"Atypical pneumonia" 587 9459 1716671
+"Pelvic inflammatory disease" 571 2407 1669174
+"Eradication of infectious diseases" 565 5669 1649698
+"Third plague pandemic" 563 12148 1645963
+"Non-communicable disease" 561 1683 1638093
+"Paget's disease of bone" 561 2808 1640641
+"Health education" 556 2503 1624818
+"List of countries by air pollution" 556 10795 1624010
+"Healthcare in Canada" 541 2730 1581233
+"Second plague pandemic" 538 8360 1571729
+"Waterborne diseases" 535 20135 1563445
+"Human nutrition" 531 10921 1552890
+"SARS" 527 10327 1540873
+"Clostridioides difficile infection" 522 2444 1526222
+"Healthcare in India" 521 2596 1521840
+"Disease X" 512 68881 1497462
+"Degenerative disc disease" 500 36939 1460468
+"Health system" 498 2764 1454721
+"Maple syrup urine disease" 490 15250 1433125
+"Fifth disease" 487 1443 1424208
+"Aspiration pneumonia" 486 2365 1421111
+"Health professional" 479 4489 1400613
+"Endemic (epidemiology)" 477 7727 1392364
+"Gaucher's disease" 476 6488 1389572
+"Parenteral nutrition" 475 2655 1388002
+"Mitochondrial disease" 469 21223 1368995
+"Meningococcal disease" 464 4152 1356971
+"Fabry disease" 461 11582 1347066
+"Chronic Lyme disease" 454 10160 1326464
+"Hospital-acquired infection" 453 1612 1325087
+"Respiratory disease" 438 2468 1280595
+"Native American disease and epidemics" 436 10701 1274863
+"Environmental health" 434 2480 1267862
+"Mental illness" 430 7661 1257552
+"Philippine Health Insurance Corporation" 427 12847 1247695
+"List of countries by total health expenditure per capita" 419 9001 1224187
+"Measles vaccine" 419 4815 1222995
+"Health belief model" 417 2429 1217939
+"Malaria vaccine" 408 24124 1190837
+"Prebiotic (nutrition)" 403 6215 1177661
+"Face masks during the COVID-19 pandemic" 395 4183 1152764
+"List of infectious diseases" 393 4465 1147530
+"Community health" 392 1997 1145242
+"Tanganyika laughter epidemic" 381 38150 1114324
+"Lower respiratory tract infection" 374 1654 1093203
+"Healthcare industry" 372 4318 1088062
+"Pneumocystis pneumonia" 368 17035 1075937
+"Mosquito-borne disease" 365 2680 1066363
+"Hookworm infection" 361 17006 1055709
+"Cerebrovascular disease" 359 2282 1048416
+"Pervasive developmental disorder" 349 2699 1018811
+"Batten disease" 342 4897 998465
+"Postpartum infections" 341 41164 996649
+"List of autoimmune diseases" 335 1196 977737
+"European Health Insurance Card" 332 5328 970217
+"Respiratory tract infection" 317 3180 925738
+"Marburg virus disease" 313 26041 915686
+"Antimalarial medication" 306 7780 894090
+"Neglected tropical diseases" 301 10900 880444
+"Pervasive developmental disorder not otherwise specified" 298 2846 871123
+"Classification of mental disorders" 296 4830 864987
+"Mental health of Jesus" 296 36558 863624
+"Health economics" 295 1141 860851
+"Protein–energy malnutrition" 292 1406 853364
+"Primary health care" 289 1161 844489
+"IgG4-related disease" 287 902 839656
+"Nutrition facts label" 286 2199 835207
+"Early-onset Alzheimer's disease" 285 4125 831353
+"Opportunistic infection" 282 2034 824084
+"Degenerative disease" 281 3898 821553
+"Lifestyle disease" 281 2010 821119
+"Lists of diseases" 280 1920 817045
+"International Classification of Diseases" 279 1728 816475
+"Noma (disease)" 276 4237 806489
+"Nutritionist" 274 1057 801680
+"1957–1958 influenza pandemic" 271 11407 791158
+"Fungal infection" 271 5361 793263
+"Krabbe disease" 271 12831 792304
+"History of malaria" 269 91823 786660
+"Group B streptococcal infection" 268 1235 783907
+"Saprotrophic nutrition" 264 2208 771402
+"Erdheim–Chester disease" 263 1946 768725
+"Epidemic typhus" 262 31556 765040
+"1889–1890 pandemic" 258 31333 752948
+"Rare disease" 248 3367 724672
+"Tick-borne disease" 242 21730 707168
+"World Mental Health Day" 241 37159 704376
+"Digital media use and mental health" 240 79843 702330
+"Idiopathic disease" 237 2532 693171
+"Health policy" 236 1984 689881
+"Global health" 230 3002 670678
+"Venereal Disease Research Laboratory test" 229 659 669131
+"Health administration" 228 2100 666763
+"Health promotion" 228 2467 665680
+"Health care quality" 227 110938 662805
+"Adenovirus infection" 221 4428 644910
+"Health effects of wine" 220 50005 642060
+"Child mortality" 216 1473 632280
+"Community-acquired pneumonia" 216 2125 630940
+"Viral pneumonia" 213 5273 623699
+"World Health Assembly" 211 12593 617412
+"List of open-source health software" 209 49524 611822
+"Clinton health care plan of 1993" 208 1431 606682
+"Causes of mental disorders" 205 7673 599894
+"Maternal health" 205 1748 599305
+"Contagious disease" 202 989 589838
+"Bacterial pneumonia" 201 2814 586233
+"1918 flu pandemic in India" 200 5676 583412
+"Comparison of the healthcare systems in Canada and the United States" 196 4489 572170
+"Lysosomal storage disease" 196 1195 573282
+"Women's health" 193 941 565270
+"Parasitic disease" 192 6538 559843
+"Health insurance coverage in the United States" 191 1177 556813
+"National Institute for Health and Care Excellence" 191 1279 557869
+"HealthCare.gov" 190 37937 555185
+"Cold agglutinin disease" 189 542 551297
+"Lumpy skin disease" 189 17494 551760
+"Bluetongue disease" 188 6110 549474
+"Public health system in India" 187 1438 546021
+"Health insurance marketplace" 184 1315 537490
+"Usual interstitial pneumonia" 184 1437 537989
+"Public health emergency of international concern" 182 8672 532716
+"Castleman disease" 178 7332 519862
+"Tropical disease" 175 5000 511746
+"Critical illness insurance" 174 960 508871
+"Director-General of the World Health Organization" 173 1582 505177
+"2015–16 Zika virus epidemic" 172 15463 503892
+"Public Health England" 171 8126 501101
+"Creativity and mental health" 170 761 496727
+"Health equity" 170 1610 496902
+"Motor neuron diseases" 170 22892 495833
+"Coalition for Epidemic Preparedness Innovations" 169 14801 492629
+"1817–1824 cholera pandemic" 168 12916 492039
+"Hospital-acquired pneumonia" 168 2171 490492
+"Systemic disease" 168 1749 489930
+"Blood-borne disease" 167 1278 486816
+"Berger's disease" 163 1294 475889
+"History of mental disorders" 163 2201 477152
+"Health effects of tea" 162 739 473632
+"Health technology" 161 1113 470357
+"Health care prices in the United States" 160 1726 468643
+"Community health center" 159 1413 463666
+"Holozoic nutrition" 159 827 464226
+"1793 Philadelphia yellow fever epidemic" 157 11974 457675
+"Massachusetts health care reform" 157 4189 457319
+"Malnutrition in India" 156 6237 454475
+"Mycobacterium avium-intracellulare infection" 156 1783 455065
+"Race and health" 154 4764 449768
+"Emerging infectious disease" 153 1479 448323
+"First plague pandemic" 151 1392 441966
+"Superinfection" 150 2515 438927
+"Health care provider" 149 1471 435607
+"Vertically transmitted infection" 149 1977 434425
+"Right to health" 148 1753 432097
+"Health communication" 147 1146 430447
+"National health insurance" 146 1673 427729
+"2009 swine flu pandemic vaccine" 141 2249 410779
+"Community health worker" 140 744 410357
+"Health information management" 140 767 408700
+"Population health" 140 11999 410127
+"Mental health professional" 139 663 405266
+"History of health care reform in the United States" 138 896 402442
+"Eye disease" 137 1132 399039
+"Catholic Church and health care" 136 2562 398711
+"Health effects of salt" 136 1225 398413
+"High-deductible health plan" 136 805 396244
+"Pott's disease" 135 1707 395828
+"Canavan disease" 133 1444 387266
+"Epidemiology of depression" 133 2581 389232
+"Health information on Wikipedia" 133 1135 387613
+"SARS-CoV-1" 133 743 389384
+"Anaerobic infection" 132 679 385546
+"Chlamydia pneumoniae" 130 1640 380245
+"Effects of climate change on human health" 130 994 379981
+"Environmental health officer" 130 816 379327
+"Diseases of poverty" 128 2730 375096
+"Classification of pneumonia" 127 2425 369790
+"The Global Fund to Fight AIDS, Tuberculosis and Malaria" 127 3380 370056
+"Cryptogenic organizing pneumonia" 126 939 368275
+"Measles virus" 126 949 367065
+"Public health insurance option" 126 5010 368449
+"Health facility" 124 610 363195
+"Ventilator-associated pneumonia" 124 688 361216
+"Disease burden" 123 657 359125
+"Kivu Ebola epidemic" 121 7059 354931
+"Nutrition and pregnancy" 121 5956 354744
+"Vegan nutrition" 121 2153 354795
+"Binswanger's disease" 120 1230 349776
+"Animal nutrition" 119 7774 346368
+"United States Senate Committee on Health, Education, Labor and Pensions" 119 6472 346397
+"Epidemiology of suicide" 118 1585 344125
+"List of childhood diseases and disorders" 118 436 346226
+"List of pollution-related diseases" 117 1305 343183
+"Skin infection" 117 626 341425
+"Darier's disease" 116 1477 337534
+"Epidemiology of schizophrenia" 116 9722 337824
+"Notifiable disease" 115 1735 336421
+"List of healthcare occupations" 114 381 332902
+"Psychogenic disease" 114 1158 334409
+"Globalization and disease" 113 2027 331443
+"Heat illness" 113 1576 328803
+"One Health" 113 1847 331048
+"Mental health during the COVID-19 pandemic" 112 1637 328509
+"Mycoplasma pneumonia" 112 2177 327328
+"Publicly funded health care" 112 1122 327453
+"Alexander disease" 111 1005 325736
+"Capitation (healthcare)" 111 693 325063
+"Pandemic severity index" 111 5951 324461
+"Universal health care by country" 111 11031 323114
+"Medical students' disease" 110 1961 320529
+"Vogt–Koyanagi–Harada disease" 108 697 315873
+"Health and Social Care Act 2012" 107 2366 313262
+"Health literacy" 107 1188 313062
+"List of types of malnutrition" 107 1583 311676
+"Fungal pneumonia" 106 815 308325
+"Kyasanur Forest disease" 106 2192 310995
+"Ottawa Charter for Health Promotion" 105 376 307073
+"1846–1860 cholera pandemic" 103 2124 300370
+"Behavior change (public health)" 102 821 299194
+"Canada Health Act" 102 943 299055
+"International Health Regulations" 102 5986 297984
+"Global Burden of Disease Study" 101 524 296513
+"Malaria prophylaxis" 101 1155 294869
+"Academy of Nutrition and Dietetics" 100 1036 292197
+"National Institute of Nutrition, Hyderabad" 100 2096 291097
+"1826–1837 cholera pandemic" 99 2134 290144
+"Coronavirus diseases" 99 2060 288261
+"Gamaleya Research Institute of Epidemiology and Microbiology" 98 5953 285272
+"Infection prevention and control" 98 1237 285447
+"Environmental disease" 97 533 283936
+"List of eponymous diseases" 97 2235 283219
+"Blount's disease" 96 3457 279450
+"Disease vector" 96 769 280840
+"Health care reform" 96 1714 279945
+"Aging-associated diseases" 95 1484 277805
+"Calcium pyrophosphate dihydrate crystal deposition disease" 95 365 278437
+"Hailey–Hailey disease" 95 8900 278194
+"Quality of life (healthcare)" 95 1002 278325
+"Illness as Metaphor" 93 409 271002
+"Metabolic dysfunction–associated steatotic liver disease" 93 1710 271601
+"Autosomal dominant polycystic kidney disease" 92 315 269037
+"European Centre for Disease Prevention and Control" 92 1284 267931
+"Psychiatric-mental health nurse practitioner" 92 568 269746
+"Disease outbreak" 91 1085 266915
+"Epidemiology of measles" 91 4126 265228
+"Nutritional value" 90 686 262798
+"Health coaching" 89 822 259655
+"Healthcare reform in the United States" 88 530 258069
+"Neonatal infection" 88 1320 256771
+"2009 swine flu pandemic by country" 87 5298 254229
+"Koro (disease)" 87 23384 252841
+"Prevalence of mental disorders" 87 1584 255398
+"Doctor of Public Health" 85 978 247811
+"Pneumonia severity index" 84 380 246102
+"Gorham's disease" 83 2856 242113
+"International Journal of Environmental Research and Public Health" 83 720 241649
+"List of foodborne illness outbreaks by death toll" 83 3729 242169
+"List of foodborne illness outbreaks in the United States" 83 5558 243292
+"Eosinophilic pneumonia" 82 3064 240068
+"Agency for Healthcare Research and Quality" 81 1342 235587
+"Waterborne disease" 81 1225 236270
+"Diarrhoea" 80 1281 234437
+"Disease surveillance" 79 879 230214
+"National Malaria Eradication Program" 79 63768 229794
+"World Malaria Day" 79 6330 231282
+"COVID-19 pandemic in Vatican City" 78 1069 228148
+"Lipid pneumonia" 78 1558 227553
+"735–737 Japanese smallpox epidemic" 77 1566 224775
+"Epidemiology of cancer" 77 1004 224948
+"Lafora disease" 76 1043 220651
+"List of notifiable diseases" 76 2123 221018
+"Pneumococcal infection" 76 1512 223322
+"Health law" 75 408 217870
+"List of infectious diseases causing flu-like syndrome" 75 958 219563
+"Public Health Agency of Canada" 75 1029 217744
+"Mental disorders and gender" 74 1539 216163
+"1775–1782 North American smallpox epidemic" 73 8203 213528
+"Clinical nutrition" 73 1289 214705
+"Mental health counselor" 73 374 214249
+"Health crisis" 72 776 211812
+"Men's health" 72 1619 210472
+"Mental health first aid" 71 459 208627
+"Chinese Center for Disease Control and Prevention" 70 3025 205455
+"National Health and Medical Research Council" 70 14959 205587
+"Spanish National Health System" 70 818 204498
+"UK Health Security Agency" 70 741 205356
+"International Classification of Functioning, Disability and Health" 69 919 202981
+"Pinta (disease)" 69 319 202381
+"Epidemic Intelligence Service" 68 2323 197946
+"Health insurance mandate" 68 1319 198595
+"Infectious diseases (medical specialty)" 68 1343 197380
+"Treatment of mental disorders" 68 1481 197929
+"Epidemiology of malnutrition" 67 5533 194407
+"List of diseases (A)" 67 1041 195810
+"List of national public health agencies" 67 917 194879
+"Air pollution in Hong Kong" 66 822 193642
+"Bombay plague epidemic" 66 2309 192519
+"Pay for performance (healthcare)" 66 557 191818
+"Pneumococcal pneumonia" 66 1152 193671
+"Extramammary Paget's disease" 65 1211 189022
+"Philosophy of healthcare" 65 465 190935
+"Global Health Initiatives" 64 662 185820
+"Human genetic resistance to malaria" 64 1173 188119
+"Infectious diseases" 64 774 187295
+"Malaria antigen detection tests" 64 1793 187399
+"Nutritional science" 64 436 186075
+"Vegetarian nutrition" 64 411 186234
+"Mental health in association football" 63 914 183951
+"Mental health in education" 63 576 184475
+"Overwhelming post-splenectomy infection" 63 216 182936
+"Timeline of peptic ulcer disease and Helicobacter pylori" 63 1045 183260
+"Epidemic curve" 62 1345 181829
+"Healthcare reform debate in the United States" 62 1290 180252
+"Self-help groups for mental health" 62 467 180641
+"Health technology assessment" 61 1917 177943
+"Necrotizing pneumonia" 61 509 178916
+"Progressive disease" 61 3219 179240
+"Carrion's disease" 60 1044 175130
+"Health care finance in the United States" 60 969 176753
+"Health effects of coffee" 60 593 176368
+"Health For All" 60 1123 174152
+"Prenatal nutrition" 60 601 175965
+"Infection rate" 59 2126 171260
+"Diagnosis of malaria" 58 846 168185
+"Latent period (epidemiology)" 57 228 165697
+"1837 Great Plains smallpox epidemic" 56 612 164807
+"Abortion and mental health" 56 827 163513
+"Hypertensive disease of pregnancy" 55 387 161733
+"Mental health in South Korea" 55 918 160386
+"National Health Insurance (Japan)" 55 586 160582
+"UK Global Health Insurance Card" 55 1971 160636
+"Congenital cytomegalovirus infection" 54 2124 158163
+"Diseases" 54 595 157686
+"Gender disparities in health" 54 4066 158840
+"Health geography" 54 284 158907
+"Mental health in China" 54 871 159098
+"Nutritional genomics" 54 316 156440
+"Chloroquine and hydroxychloroquine during the COVID-19 pandemic" 53 2506 153641
+"Health impact assessment" 53 955 155493
+"Lytico-bodig disease" 53 15045 154865
+"Western African Ebola epidemic" 53 6181 154434
+"Dukes' disease" 52 1531 150871
+"Cognitive epidemiology" 51 620 148564
+"Consumer-driven healthcare" 51 992 149935
+"Epidemiology of syphilis" 51 1411 149827
+"Health advocacy" 51 261 148608
+"Health human resources" 51 532 148182
+"Health measures during the construction of the Panama Canal" 51 1692 148343
+"List of diseases eliminated from the United States" 51 1332 150122
+"Maternal mortality ratio" 51 295 147667
+"Pandemic prevention" 51 601 149529
+"American Journal of Public Health" 50 541 145931
+"Environmental epidemiology" 50 601 145613
+"Healthcare in Tanzania" 50 1379 146449
+"Malaria No More" 50 1141 145250
+"Morbidity and Mortality Weekly Report" 50 964 145458
+"Trauma model of mental disorders" 50 1266 144871
+"Nutrition education" 49 902 143711
+"Dent's disease" 48 2281 141463
+"Impact of the COVID-19 pandemic on children" 48 1554 141645
+"Nutritional neuroscience" 48 3205 140559
+"1974 smallpox epidemic in India" 47 7288 138643
+"Biochemistry of Alzheimer's disease" 47 1004 136815
+"Bloodstream infection" 47 600 136783
+"Clinical mental health counseling" 47 499 137635
+"Genetic epidemiology" 47 882 137937
+"International health" 47 576 138376
+"List of infections of the central nervous system" 47 669 136114
+"Medical officer of health" 47 394 137091
+"Mental health literacy" 47 299 136680
+"National Health Policy" 47 333 138336
+"Air pollution measurement" 46 404 135544
+"Health services research" 46 399 135045
+"List of diseases (M)" 46 862 133778
+"List of diseases (P)" 46 660 135285
+"Mental health law" 46 170 135146
+"Nurses' Health Study" 46 303 133341
+"2009 swine flu pandemic timeline" 45 8966 132523
+"Air Quality Health Index (Canada)" 45 1018 131411
+"Andersen healthcare utilization model" 45 618 130759
+"Bat SARS-like coronavirus WIV1" 45 1959 131731
+"Global Health Security Index" 45 2697 132509
+"Healthy community design" 45 487 130974
+"Mental health in the United Kingdom" 45 929 130854
+"Pandemic predictions and preparations prior to the COVID-19 pandemic" 45 428 130289
+"Undernutrition in children" 45 1661 132835
+"Against Malaria Foundation" 44 778 129718
+"Disease management (health)" 44 373 128341
+"Epidemiology of diabetes" 44 315 128404
+"Epidemiology of pneumonia" 44 388 128149
+"Free-market healthcare" 44 1608 129281
+"Health risk assessment" 44 287 129357
+"Healthy city" 44 481 129172
+"Mycoplasma hominis infection" 44 325 128249
+"National Centre for Disease Control" 44 633 129390
+"Autosomal recessive polycystic kidney disease" 43 336 126514
+"Grossman model of health demand" 43 277 127069
+"Homelessness and mental health" 43 491 124889
+"Breastfeeding and mental health" 42 917 122941
+"Disease mongering" 42 490 121808
+"Dust pneumonia" 42 218 121609
+"List of diseases (D)" 42 528 121968
+"List of diseases (T)" 42 635 124105
+"Mental health day" 42 1633 122777
+"Convention on Long-Range Transboundary Air Pollution" 41 230 120632
+"Ecosystem health" 41 939 120767
+"Epidemiology of bed bugs" 41 857 120911
+"Global mental health" 41 252 118515
+"List of diseases (C)" 41 631 119167
+"Royal College of Paediatrics and Child Health" 41 1410 119894
+"Sexual health clinic" 41 415 118548
+"Coinfection" 40 224 115637
+"List of diseases (B)" 40 1075 118110
+"List of diseases (H)" 40 539 115502
+"List of diseases (S)" 40 1474 116552
+"List of foodborne illness outbreaks" 40 461 118198
+"Motor Neurone Disease Association" 40 573 116492
+"Outline of air pollution dispersion" 40 524 117556
+"Timeline of global health" 40 1609 118247
+"1899–1923 cholera pandemic" 39 1142 115353
+"Borna disease" 39 1821 112548
+"Healthcare in Qatar" 39 442 112587
+"Vermont health care reform" 39 957 115254
+"Wilt disease" 39 175 114147
+"Acronyms in healthcare" 38 520 111041
+"Chinese Classification of Mental Disorders" 38 656 110290
+"Health effect" 38 214 110546
+"Infectious Diseases Society of America" 38 336 111516
+"RAND Health Insurance Experiment" 38 190 109743
+"2009 swine flu pandemic in India" 37 1645 106792
+"Euro Health Consumer Index" 37 479 107990
+"Healthcare in Rwanda" 37 1830 107737
+"Healthcare reform in China" 37 3853 108034
+"List of systemic diseases with ocular manifestations" 37 162 109034
+"Prison healthcare" 37 2381 108686
+"Africa Centres for Disease Control and Prevention" 36 529 104237
+"Bills of mortality" 36 767 106172
+"Disease of despair" 36 873 104053
+"Health visitor" 36 520 105067
+"International healthcare accreditation" 36 752 104974
+"Non-specific interstitial pneumonia" 36 166 104466
+"Nutrition transition" 36 2648 105932
+"Nutritional anthropology" 36 597 106363
+"Disease cluster" 35 659 103154
+"Kashin–Beck disease" 35 234 100957
+"Ministry of Health and Welfare (South Korea)" 35 252 101744
+"Nutritional rating systems" 35 2501 102308
+"Artificial intelligence in mental health" 34 1597 99053
+"Climate change and infectious diseases" 34 1625 99900
+"Farber disease" 34 845 99712
+"Idiopathic multicentric Castleman disease" 34 2151 99402
+"Mobile source air pollution" 34 268 97888
+"Nigeria Centre for Disease Control" 34 551 100350
+"Nutrition and cognition" 34 857 98889
+"Pandemic fatigue" 34 482 99000
+"Parasitic pneumonia" 34 1140 98102
+"Southern tick-associated rash illness" 34 222 100652
+"Value-based health care" 34 6074 99334
+"1881–1896 cholera pandemic" 33 941 95805
+"European Parliament Committee on the Environment, Public Health and Food Safety" 33 984 96672
+"Idiopathic interstitial pneumonia" 33 910 94992
+"List of diseases (L)" 33 516 95581
+"Mental health in Russia" 33 533 96581
+"Public health laboratory" 33 1402 96197
+"Seventh cholera pandemic" 33 292 95758
+"Skin and skin structure infection" 33 141 95967
+"Autoimmune inner ear disease" 32 2006 94588
+"Healthy building" 32 586 93555
+"Inflammatory demyelinating diseases of the central nervous system" 32 412 92686
+"Mental Health Act (Ontario)" 32 122 92362
+"Mental health in India" 32 200 94579
+"Public health journal" 32 792 93244
+"1919–1930 encephalitis lethargica epidemic" 31 3223 91357
+"Diabetic foot infection" 31 144 90046
+"Multimorbidity" 31 887 90560
+"Prevention of mental disorders" 31 694 91756
+"Preventive nutrition" 31 923 91801
+"Public Health Agency of Sweden" 31 444 91424
+"Salt and cardiovascular disease" 31 225 89744
+"1863–1875 cholera pandemic" 30 2591 89062
+"Case management (mental health)" 30 489 88915
+"List of diseases (J)" 30 504 86241
+"Nutrition psychology" 30 195 86251
+"Workplace health promotion" 30 217 86350
+"2023 Chinese pneumonia outbreak" 29 11681 85362
+"Bone health" 29 272 84831
+"Nutrition analysis" 29 150 83314
+"1862 Pacific Northwest smallpox epidemic" 28 1619 82110
+"Epstein–Barr virus–associated lymphoproliferative diseases" 28 1099 81777
+"Febrile infection-related epilepsy syndrome" 28 517 82027
+"Healthy Life Years" 28 333 82615
+"Korea Disease Control and Prevention Agency" 28 352 81377
+"List of sexually transmitted infections by prevalence" 28 504 81859
+"NINCDS-ADRDA Alzheimer's Criteria" 28 153 80534
+"Notifiable diseases in the United Kingdom" 28 1301 81437
+"Ecological health" 27 850 78044
+"First Nations nutrition experiments" 27 2108 77974
+"International Association of National Public Health Institutes" 27 792 79309
+"Letterer–Siwe disease" 27 118 77751
+"List of diseases (F)" 27 509 78247
+"List of diseases (V)" 27 512 77704
+"List of diseases (Z)" 27 582 78000
+"List of mental disorders in the DSM-IV and DSM-IV-TR" 27 540 79287
+"Mental health court" 27 199 79919
+"Multifactorial disease" 27 426 78209
+"National Hotel disease" 27 1714 79085
+"1847 North American typhus epidemic" 26 257 76072
+"Disseminated disease" 26 196 76047
+"Drugs for Neglected Diseases Initiative" 26 327 76031
+"Health security" 26 318 76596
+"Healthcare rationing in the United States" 26 397 76389
+"Human health" 26 322 74720
+"Loneliness epidemic" 26 1235 74552
+"Molecular epidemiology" 26 165 75656
+"Mosquito-malaria theory" 26 1492 75006
+"Pandemic Severity Assessment Framework" 26 382 76392
+"Pregnancy-associated malaria" 26 1171 76884
+"Serious mental illness" 26 977 76996
+"Bulletin of the World Health Organization" 25 1174 72502
+"Caribbean Public Health Agency" 25 362 72300
+"Epidemiology of asthma" 25 999 74039
+"Establishment of the World Health Organization" 25 1692 72677
+"Health Advocate" 25 1099 71769
+"Health and Social Care Select Committee" 25 1589 72537
+"Health insurance cooperative" 25 223 71590
+"Milk borne diseases" 25 563 73043
+"1557 influenza pandemic" 24 497 69980
+"American Journal of Epidemiology" 24 482 70072
+"Brazilian Health Regulatory Agency" 24 725 69075
+"Global Alliance for Improved Nutrition" 24 965 69079
+"Healthcare engineering" 24 143 70282
+"Influx of disease in the Caribbean" 24 940 70218
+"Localized disease" 24 202 68957
+"Malnutrition in South Africa" 24 1198 71207
+"Mental illness in media" 24 495 71196
+"1510 influenza pandemic" 23 413 65797
+"Alzheimer's disease in the media" 23 141 68272
+"Autoinflammatory diseases" 23 444 66189
+"Brill–Zinsser disease" 23 1611 65893
+"Desquamative interstitial pneumonia" 23 179 67739
+"Effects of climate change on mental health" 23 357 67550
+"Epidemiology of attention deficit hyperactive disorder" 23 462 67117
+"Health care efficiency" 23 440 68304
+"Healthcare real estate" 23 203 68171
+"List of diseases (E)" 23 500 65962
+"Psychiatric epidemiology" 23 204 68390
+"Services for mental disorders" 23 877 65857
+"Stateville Penitentiary Malaria Study" 23 223 66094
+"Alzheimer's Disease Neuroimaging Initiative" 22 492 65341
+"Fazio–Londe disease" 22 1068 65664
+"Health effects of caffeine" 22 811 64040
+"Healthcare in Zambia" 22 406 64896
+"List of diseases (Q)" 22 493 63354
+"List of diseases (W)" 22 806 64002
+"Massachusetts smallpox epidemic" 22 281 62925
+"National Health Interview Survey" 22 373 63943
+"Oregon Medicaid health experiment" 22 131 63382
+"Suicide epidemic" 22 273 64702
+"World Pneumonia Day" 22 1747 63996
+"American Society for Nutrition" 21 3256 62661
+"Approved mental health professional" 21 298 61325
+"Camurati–Engelmann disease" 21 595 62486
+"Common disease-common variant" 21 475 61841
+"Compression of morbidity" 21 247 61699
+"Cruveilhier–Baumgarten disease" 21 93 61382
+"Epidemiology of breast cancer" 21 211 61584
+"Health Insurance Innovations" 21 135 61415
+"Health politics" 21 494 60585
+"Health spending as percent of gross domestic product (GDP) by country" 21 1708 61905
+"Household air pollution" 21 251 62400
+"List of diseases (K)" 21 1278 61170
+"List of diseases (R)" 21 496 60517
+"Mental illness denial" 21 1004 60361
+"Nutritional epidemiology" 21 120 61222
+"Clinical epidemiology" 20 475 58355
+"Disease ecology" 20 225 58983
+"Disease resistance" 20 374 58868
+"Epidemiology of chikungunya" 20 253 59555
+"Health consequences of the Deepwater Horizon oil spill" 20 1978 57273
+"Hirayama disease" 20 672 58507
+"List of diseases (G)" 20 496 58364
+"List of diseases (N)" 20 499 57789
+"List of diseases (X)" 20 493 58115
+"Mental health in aviation" 20 289 59640
+"Mental health nurse" 20 6921 59181
+"Mental illness in ancient Greece" 20 73 57499
+"National Centre for Infectious Diseases" 20 432 57785
+"Spatial epidemiology" 20 233 57466
+"Taiwan Centers for Disease Control" 20 262 58766
+"United States House Energy Subcommittee on Health" 20 1561 58312
+"1812–1819 Ottoman plague epidemic" 19 422 56878
+"Biphasic disease" 19 3903 56628
+"BMC Public Health" 19 412 55674
+"CNS demyelinating autoimmune diseases" 19 1068 55125
+"Epidemiology of tuberculosis" 19 199 54924
+"Global Health Council" 19 684 55749
+"Health professional requisites" 19 437 54498
+"Intestinal infectious diseases" 19 223 54216
+"List of diseases (O)" 19 495 55002
+"Lymphocytic interstitial pneumonia" 19 194 56826
+"Malaria Consortium" 19 1143 56460
+"Mayaro virus disease" 19 228 54387
+"Measles: A Dangerous Illness" 19 11816 54994
+"Mental health in Australia" 19 158 56557
+"National Collaborating Centre for Mental Health" 19 1479 54313
+"National Prostate Health Month" 19 279 56787
+"Social determinants of mental health" 19 354 54679
+"State health agency" 19 140 55705
+"Anti-IgLON5 disease" 18 113 53145
+"BMC Health Services Research" 18 223 53934
+"Catastrophic illness" 18 496 51437
+"Compartmental models (epidemiology)" 18 440 53646
+"Contagious bovine pleuropneumonia" 18 559 52447
+"Coughs and sneezes spread diseases" 18 5362 52765
+"Disease registry" 18 374 51350
+"Escape Fire: The Fight to Rescue American Healthcare" 18 286 52934
+"Health humanities" 18 165 52088
+"Health policy and management" 18 92 53361
+"Health Utilities Index" 18 93 51966
+"London Declaration on Neglected Tropical Diseases" 18 1129 51515
+"Mental illness in ancient Rome" 18 571 52693
+"Socioeconomic status and mental health" 18 264 53762
+"Chicago 1885 cholera epidemic myth" 17 1000 50030
+"Consumer Assessment of Healthcare Providers and Systems" 17 284 49264
+"Epidemiology of binge drinking" 17 293 48757
+"Health fair" 17 403 50317
+"Health policy in Bangladesh" 17 120 48287
+"Healthcare in Nicaragua" 17 264 49046
+"Healthcare in Sierra Leone" 17 180 48963
+"In absentia health care" 17 705 49895
+"International Journal of Epidemiology" 17 369 48424
+"International Men's Health Week" 17 344 50703
+"List of diseases (Y)" 17 487 50062
+"National Institute for Communicable Diseases" 17 185 49695
+"Vaccine-preventable disease" 17 191 49881
+"Blackheart (plant disease)" 16 7080 45844
+"Composite Health Care System" 16 52 45397
+"Diplomatic illness" 16 708 45813
+"Discovery of disease-causing pathogens" 16 269 47657
+"Environmental health policy" 16 134 46938
+"Glossary of the COVID-19 pandemic" 16 181 47229
+"Health effects of alcohol" 16 616 46735
+"HealthRoster" 16 123 45555
+"Iron Triangle of Health Care" 16 200 46479
+"Mental health inequality" 16 139 48206
+"National Health Fund" 16 159 45781
+"Service Excellence – Health Care" 16 905 47057
+"Society for Family Health Nigeria" 16 800 47260
+"Weather and climate effects on Lyme disease exposure" 16 167 45674
+"Women's health nurse practitioner" 16 524 45851
+"1813–1814 Malta plague epidemic" 15 1724 44228
+"1929–1930 psittacosis pandemic" 15 6610 43799
+"Adult polyglucosan body disease" 15 204 43580
+"British Nutrition Foundation" 15 283 43651
+"Catheter-associated urinary tract infection" 15 90 45153
+"Disease-modifying osteoarthritis drug" 15 516 45152
+"Endogenous infection" 15 157 44295
+"Epidemiology of childhood obesity" 15 339 43273
+"GIS and public health" 15 222 44771
+"Global Public Health Intelligence Network" 15 846 45001
+"Health care rationing" 15 595 43472
+"Landscape epidemiology" 15 140 44686
+"List of diseases (I)" 15 496 42626
+"List of rare disease organisations" 15 446 43032
+"Malaria culture" 15 347 44035
+"Mental health in the Middle East" 15 100 43883
+"National Comorbidity Survey" 15 422 42681
+"National Institute for Public Health and the Environment" 15 408 42610
+"Norwegian Institute of Public Health" 15 174 44451
+"Online health communities" 15 200 43204
+"Undernutrition" 15 630 42470
+"Avalere Health" 14 1084 39876
+"Disease diffusion mapping" 14 177 41173
+"European Prospective Investigation into Cancer and Nutrition" 14 139 40550
+"Focus of infection" 14 241 39558
+"George Institute for Global Health" 14 131 39824
+"Global Health Security Initiative" 14 767 39605
+"Health Information and Quality Authority" 14 132 40034
+"HealthMap" 14 448 40368
+"Journal of Public Health Policy" 14 389 41288
+"Lower Mississippi Valley yellow fever epidemic of 1878" 14 225 40320
+"Medicines for Malaria Venture" 14 1345 40987
+"Mental health triage" 14 436 41317
+"National Emerging Infectious Diseases Laboratories" 14 882 42070
+"Non-communicable diseases" 14 124 39486
+"NutritionDay" 14 203 41555
+"Population, health, and the environment" 14 188 42088
+"Women's health movement in the United States" 14 453 41994
+"2009 swine flu pandemic tables" 13 592 36774
+"Alliance for Healthy Cities" 13 629 39328
+"Autoimmune disease in women" 13 231 38986
+"Castleman Disease Collaborative Network" 13 207 38472
+"Centre for Health Protection" 13 502 36959
+"Ephialtes (illness)" 13 122 36853
+"Groningen epidemic" 13 246 38159
+"Health and wealth" 13 72 38205
+"Health Consumer Powerhouse" 13 266 38900
+"Health systems engineering" 13 101 36537
+"Inequality in disease" 13 333 38709
+"Journal of Epidemiology and Community Health" 13 237 39181
+"List of diseases by year of discovery" 13 3904 37367
+"Mental health in New Zealand" 13 549 37806
+"Minister of Mental Health" 13 750 39317
+"Music therapy for Alzheimer's disease" 13 211 38993
+"Neglected tropical diseases in India" 13 269 38802
+"Pogosta disease" 13 337 39129
+"Public Health Scotland" 13 223 36741
+"Puerto Rico Health Reform" 13 710 36546
+"Air pollution forecasting" 12 198 34080
+"Cardiovascular disease in women" 12 162 34470
+"Catholic Health Association of the United States" 12 132 36403
+"Fire breather's pneumonia" 12 468 36302
+"Global Initiative for Chronic Obstructive Lung Disease" 12 156 35835
+"Glycogen storage disease type IX" 12 91 36230
+"Health systems strengthening" 12 49 35966
+"Human Resources for Health" 12 854 36490
+"Journal of Health Economics" 12 147 34545
+"List of freeware health software" 12 280 34965
+"List of insect-borne diseases" 12 66 34621
+"Malaria therapy" 12 365 35822
+"Mental health consumer" 12 163 35184
+"National Institute of Malaria Research" 12 148 35125
+"Pontifical Council for the Pastoral Care of Health Care Workers" 12 242 33679
+"President's Malaria Initiative" 12 475 33747
+"Public Health Wales" 12 495 35050
+"Routine health outcomes measurement" 12 473 34108
+"412 BC epidemic" 11 323 31200
+"Access Health CT" 11 495 32454
+"Anti-AQP4 disease" 11 481 30825
+"Caerphilly Heart Disease Study" 11 475 33347
+"Childhood chronic illness" 11 200 31094
+"Ehrlichiosis ewingii infection" 11 854 33587
+"European Society of Clinical Microbiology and Infectious Diseases" 11 448 31585
+"Health care ratings" 11 370 31320
+"Healthcare in San Marino" 11 153 31945
+"Intersex healthcare" 11 10114 30808
+"Jansky–Bielschowsky disease" 11 649 32470
+"Journal of Clinical Epidemiology" 11 479 31083
+"Malaria Atlas Project" 11 981 32347
+"Overseas Student Health Cover" 11 121 32289
+"Pneumonia (non-human)" 11 151 32477
+"Post-tuberculosis lung disease" 11 19040 32261
+"Priority-setting in global health" 11 88 31665
+"Public Health Inspector (Sri Lanka)" 11 73 32614
+"Unicentric Castleman disease" 11 422 32801
+"Visitor health insurance" 11 440 33182
+"2009 swine flu pandemic timeline summary" 10 303 29782
+"Affordable Medicines Facility-malaria" 10 145 28203
+"Cancer Epidemiology, Biomarkers & Prevention" 10 98 29647
+"Carlos III Health Institute" 10 115 30040
+"Computational epidemiology" 10 125 29369
+"Cytomegalovirus infection" 10 149 30173
+"Environmental health ethics" 10 278 29324
+"European Journal of Epidemiology" 10 261 30113
+"European Organisation for Rare Diseases" 10 196 28375
+"Global Alliance on Health and Pollution" 10 103 30646
+"Health Effects Institute" 10 209 27802
+"Healthcare scientist" 10 453 29765
+"How to Prevent the Next Pandemic" 10 167 28784
+"List of diseases (U)" 10 487 29168
+"List of diseases spread by arthropods" 10 183 29665
+"National Institute of Health, Islamabad" 10 100 29382
+"NHS Health Scotland" 10 1363 27831
+"Occult pneumonia" 10 77 27841
+"Papaya Bunchy Top Disease" 10 195 29041
+"Portal:Pandemics" 10 173 29276
+"Prime Healthcare" 10 418 28125
+"Public Health Nutrition" 10 89 29898
+"Public Health Reports" 10 309 29154
+"Strengthening the reporting of observational studies in epidemiology" 10 68 30677
+"Theiler's disease" 10 50 29210
+"Workplace safety in healthcare settings" 10 113 28577
+"Airport malaria" 9 1692 25943
+"Akureyri disease" 9 171 27259
+"BENTA disease" 9 1541 26988
+"Conflict epidemiology" 9 237 25120
+"Dengue pandemic in Sri Lanka" 9 91 25191
+"Diarrheal diseases" 9 343 26472
+"Epidemiology (journal)" 9 71 27118
+"Epidemiology and Infection" 9 154 27469
+"Finnish Institute for Health and Welfare" 9 239 27595
+"Global Health Security Agenda" 9 245 24942
+"Health and Care Act 2022" 9 170 25240
+"Health Sciences Online" 9 842 25111
+"Healthcare in Saint Helena" 9 134 27064
+"History of public health in the United States" 9 404 26292
+"History of Tay–Sachs disease" 9 95 26937
+"Infant mental health" 9 165 25652
+"Institute for Quality and Efficiency in Health Care" 9 76 26682
+"List of species named after the COVID-19 pandemic" 9 9487 25837
+"Madras motor neuron disease" 9 143 25027
+"Malnutrition in Peru" 9 598 27605
+"Mental health tribunal" 9 179 26570
+"National Institute for Health and Disability Insurance" 9 65 27407
+"Nutritional epigenetics" 9 566 25128
+"Office for Health Improvement and Disparities" 9 246 25153
+"Pan American Journal of Public Health" 9 896 25338
+"Pandemic Preparedness and Response Act" 9 296 25559
+"Population health policies and interventions" 9 248 25346
+"Principles for the Protection of Persons with Mental Illness" 9 99 25149
+"School-based health centers" 9 101 26296
+"Simon Hill (nutritionist)" 9 183 25082
+"Study of Health in Pomerania" 9 240 27734
+"Terminal illness insurance" 9 57 25227
+"Africa Fighting Malaria" 8 1239 23883
+"Community health agent" 8 52 24796
+"Corn stunt disease" 8 169 22599
+"Dementia and Alzheimer's disease in Australia" 8 482 24192
+"Disability and women's health" 8 140 22273
+"Dole Nutrition Institute" 8 124 23288
+"Eastern Mediterranean Health Journal" 8 847 24333
+"Economic epidemiology" 8 148 23130
+"Epidemic models on lattices" 8 69 22366
+"Epidemiology data for low-linear energy transfer radiation" 8 398 22433
+"EuroHealthNet" 8 143 21988
+"European Observatory on Health Systems and Policies" 8 67 24574
+"European Public Health Alliance" 8 268 24501
+"European Public Health Association" 8 77 23039
+"Evolution of Infectious Disease" 8 135 23392
+"Federal Service for Surveillance in Healthcare" 8 70 23532
+"Global Health Innovative Technology Fund" 8 298 23646
+"Global Health Observatory" 8 187 24728
+"Global Infectious Disease Epidemiology Network" 8 472 24297
+"Globalization and Health" 8 294 24336
+"Health ecology" 8 83 23287
+"Health effects of sugar" 8 495 24746
+"Idiopathic pneumonia syndrome" 8 214 24471
+"Intentional contagion of infection" 8 215 23020
+"International Society for Pharmacoepidemiology" 8 83 24379
+"Journal of Health and Social Behavior" 8 238 22784
+"Journal of Public Health" 8 169 22916
+"Malarial nephropathy" 8 61 22288
+"Massachusetts Department of Mental Health" 8 96 23499
+"Mental health care navigator" 8 56 24438
+"Mental Health Week (Australia)" 8 235 24814
+"Microbiology of Lyme disease" 8 235 23139
+"Mold and human health" 8 396 22378
+"Nutrition scale" 8 62 23788
+"Outline of infectious disease concepts" 8 320 22835
+"Outline of public health" 8 212 23150
+"Partnership for Maternal, Newborn & Child Health" 8 224 23329
+"Preventing Chronic Disease" 8 84 21967
+"Rheumatoid disease of the spine" 8 117 24097
+"Specific replant disease" 8 121 23218
+"Susceptibility and severity of infections in pregnancy" 8 75 23885
+"Template:Mental disorders" 8 1372 22124
+"Undiagnosed Diseases Network" 8 1329 24085
+"Universal Declaration on the Eradication of Hunger and Malnutrition" 8 576 24652
+"Victorian Health Promotion Foundation" 8 135 23024
+"Women's Health Care Nurse Practitioner-Board Certified" 8 474 23346
+"1856 Guam smallpox epidemic" 7 248 18994
+"2009 swine flu pandemic actions concerning pigs" 7 436 19321
+"Acute eosinophilic pneumonia" 7 153 19913
+"African Malaria Network Trust" 7 1100 19137
+"Air pollution and traffic congestion in Tehran" 7 130 21584
+"Air pollution in Lahore" 7 742 20601
+"Annual Review of Public Health" 7 66 20089
+"Applications of sensitivity analysis in epidemiology" 7 6527 20648
+"Autoimmune skin diseases in dogs" 7 148 20471
+"Bahima disease" 7 173 19003
+"Bandim Health Project" 7 311 20795
+"Bill of health" 7 213 21046
+"Depression of Alzheimer disease" 7 122 19623
+"Disease Control Priorities Project" 7 160 21079
+"Diseases of abnormal polymerization" 7 115 19380
+"Eradication of malaria" 7 243 21511
+"European Journal of Public Health" 7 63 19593
+"Global Health Action" 7 141 20364
+"Health 21" 7 132 20157
+"Health care in Mozambique" 7 126 20430
+"Health Emergencies Programme (WHO)" 7 198 19138
+"Health extension officer" 7 190 21517
+"Health Promotion International" 7 99 20069
+"Health Protection Surveillance Centre" 7 414 21390
+"Health surveillance" 7 686 20135
+"Infectious Diseases Institute" 7 74 21356
+"Intradialytic parenteral nutrition" 7 42 21199
+"ITU-WHO Focus Group on Artificial Intelligence for Health" 7 397 20559
+"Journal of Exposure Science and Environmental Epidemiology" 7 160 19523
+"Journal of Health Care for the Poor and Underserved" 7 67 20985
+"Journal of Health Communication" 7 438 19199
+"Journal of Immigrant and Minority Health" 7 39 19043
+"List of diseases (0–9)" 7 488 19577
+"Malaria in Mandatory Palestine" 7 596 19330
+"Managerial epidemiology" 7 80 20841
+"Mental health in Ireland" 7 130 21621
+"Mycoplasma ovipneumoniae" 7 112 20428
+"Nutrition in classical antiquity" 7 68 20522
+"Pacific Open Learning Health Net" 7 103 21744
+"Prevention of Tay–Sachs disease" 7 136 20219
+"Price-Pottenger Nutrition Foundation" 7 155 21838
+"Pullorum disease" 7 123 20522
+"Social Psychiatry and Psychiatric Epidemiology" 7 79 20592
+"STOP Foodborne Illness" 7 111 21844
+"United States Senate Health Subcommittee on Primary Health and Retirement Security" 7 115 20130
+"World Chagas Disease Day" 7 271 19098
+"World Health Organization Composite International Diagnostic Interview" 7 69 21538
+"1789–1790 influenza epidemic" 6 202 16207
+"1915 typhus and relapsing fever epidemic in Serbia" 6 177 18042
+"1985 World Health Organization AIDS surveillance case definition" 6 154 16285
+"1998 Winter Olympics flu epidemic" 6 325 16582
+"2022–2024 National Health Service strikes" 6 392 16248
+"Air pollution in Macau" 6 94 18280
+"Alliance for Health Policy and Systems Research" 6 1234 16243
+"Annals of Epidemiology" 6 396 17286
+"Apparent infection rate" 6 56 18012
+"Asia-Pacific Journal of Public Health" 6 475 17488
+"Biologically based mental illness" 6 39 16669
+"Black Women's Health Study" 6 51 18561
+"Boston Health Care for the Homeless Program" 6 400 17536
+"Canadian Journal of Public Health" 6 130 17657
+"Catholic Health Australia" 6 174 18558
+"Civet SARS-CoV" 6 157 18228
+"Colorado Department of Health Care Policy and Financing" 6 477 16793
+"Deaf mental health care" 6 91 16385
+"E-epidemiology" 6 69 18799
+"Epidemiology of child psychiatric disorders" 6 423 17790
+"Fair Share Health Care Act" 6 476 18940
+"Global Forum for Health Research" 6 71 18137
+"Global Public Health (journal)" 6 78 16378
+"Global Research Collaboration for Infectious Disease Preparedness" 6 115 17587
+"Health Action International" 6 592 16845
+"Health and Human Rights" 6 135 18940
+"Health Care for Women International" 6 49 17627
+"Health cash plan" 6 82 17211
+"Health Communication (journal)" 6 42 17980
+"Health Communication Network" 6 397 16774
+"Health in Northern Cyprus" 6 92 18419
+"Health promotion in higher education" 6 369 17800
+"History of public health in the United Kingdom" 6 538 18260
+"International Union of Air Pollution Prevention and Environmental Protection Associations" 6 75 16496
+"Jembrana disease" 6 162 17586
+"Journal of American College Health" 6 132 17717
+"Journal of Community Health" 6 193 18728
+"Journal of Urban Health" 6 85 18847
+"Laboratory-acquired infection" 6 92 18860
+"Malaria Eradication Scientific Alliance" 6 588 16753
+"Measles hemagglutinin" 6 54 16993
+"Mental health informatics" 6 127 16955
+"National Institute of Public Health of Japan" 6 93 17738
+"National Public Health Organization (Greece)" 6 89 16152
+"Pneumonia alba" 6 239 18604
+"Public health observatory" 6 89 16886
+"Qualitative Health Research" 6 67 18622
+"Rare Diseases Clinical Research Network" 6 90 17062
+"Severe malaria" 6 830 17560
+"Social Health Authority (Kenya)" 6 180 16597
+"The Dancing Mania, an epidemic of the Middle Ages" 6 230 16850
+"United States Health Care Reform: Progress to Date and Next Steps" 6 188 17494
+"Viral disease testing" 6 79 16927
+"Your Health Idaho" 6 93 17349
+"Youth mental health crisis" 6 147 16314
+"1770s Pacific Northwest smallpox epidemic" 5 4879 13537
+"1853 yellow fever epidemic" 5 422 14116
+"1870 Barcelona yellow fever epidemic" 5 115 15362
+"1906 malaria outbreak in Ceylon" 5 246 15223
+"1967 Marburg virus disease outbreak" 5 1388 15828
+"African Health Sciences" 5 56 14010
+"Air pollution in Iran" 5 181 13914
+"Air pollution in Karachi" 5 66 13285
+"Alzheimer's disease among East Asians" 5 107 15966
+"Amazon Malaria Initiative" 5 1140 15395
+"Bamrasnaradura Infectious Diseases Institute" 5 138 13223
+"Biotin-thiamine-responsive basal ganglia disease" 5 119 13930
+"BMJ Global Health" 5 135 14993
+"Bureau of Health Workforce" 5 471 14574
+"Canadian House of Commons Standing Committee on Health" 5 181 14490
+"Child health in Uganda" 5 244 13905
+"Commercial determinants of health" 5 247 15822
+"Committee on Health, Labour, and Social Affairs" 5 67 14103
+"Community Dentistry and Oral Epidemiology" 5 159 13307
+"Effects of climate change on health in the United Kingdom" 5 1118 15570
+"EMBRACE Healthcare Reform Plan" 5 26 13283
+"Engineering World Health" 5 113 14191
+"Global Network for Neglected Tropical Diseases" 5 42 14475
+"Global Strategy for Women's and Children's Health" 5 64 14776
+"Grand Challenges in Global Health" 5 350 13789
+"Health & Place" 5 159 15966
+"Health & Social Care in the Community" 5 41 13196
+"Health Disparities Center" 5 94 13387
+"Health Education & Behavior" 5 32 14739
+"Health effects of wood smoke" 5 272 14680
+"Health information-seeking behaviour" 5 109 15007
+"Healthcare Quality Improvement Partnership" 5 84 13941
+"Healthy development measurement tool" 5 55 13473
+"High-dependency unit (mental health)" 5 29 13634
+"Illinois Health Benefits Exchange" 5 230 13533
+"Imagine No Malaria" 5 566 15113
+"Inquiry (health journal)" 5 50 14655
+"LGBT Health (journal)" 5 45 15190
+"LGBTQ health" 5 1362 14732
+"Lyme Disease Awareness Month" 5 174 14708
+"Malaria Control Project" 5 71 14226
+"Malaria in the River Thames" 5 84 14325
+"Malaria Journal" 5 170 15110
+"Malnutrition in Kerala" 5 54 15022
+"Mater Health Services North Queensland" 5 164 15962
+"Measles & Rubella Initiative" 5 215 15848
+"Menstruation and mental health" 5 155 15724
+"Mental health in Palestine" 5 95 13246
+"Mental health of LGBTQ people" 5 136 14761
+"Mental Health, Religion & Culture" 5 182 14551
+"Microbicides for sexually transmitted infections" 5 127 13850
+"Miscarriage and mental disorders" 5 169 13171
+"Mississippi Department of Mental Health" 5 37 13565
+"National Foundation for Infectious Diseases" 5 48 13657
+"Network for Capacity Development in Nutrition" 5 689 14466
+"Nevada Health Link" 5 38 15763
+"New Mexico Health Insurance Exchange" 5 94 13540
+"Nurse-managed health center" 5 74 15767
+"Nutrition Foundation of the Philippines" 5 1140 15177
+"Pathogens and Global Health" 5 184 13462
+"Philippine Senate Committee on Health and Demography" 5 465 15604
+"Population Health Management" 5 119 15361
+"Prism Health" 5 64 13856
+"Progress in Community Health Partnerships" 5 471 13879
+"Public Health (journal)" 5 53 14087
+"Real-time outbreak and disease surveillance" 5 176 15279
+"Science diplomacy and pandemics" 5 576 14992
+"SMART Health Card" 5 206 15019
+"Smell as evidence of disease" 5 89 13711
+"Societal and cultural aspects of Tay–Sachs disease" 5 42 14394
+"South African Malaria Initiative" 5 1726 13400
+"Target Malaria" 5 171 15513
+"The Nation's Health" 5 150 13682
+"The Trøndelag Health Study" 5 155 15825
+"Waterborne disease and climate change" 5 89 14056
+"Whole Health Action Management" 5 150 14287
+"1580 influenza pandemic" 4 507 11183
+"1707–08 Iceland smallpox epidemic" 4 148 12778
+"1896 Gloucester smallpox epidemic" 4 150 11144
+"1924–1925 Minnesota smallpox epidemic" 4 83 12322
+"1994 expanded World Health Organization AIDS case definition" 4 125 10322
+"2021 South Sudan disease outbreak" 4 743 10874
+"2024 Kwango province malaria outbreak" 4 962 11361
+"Alberta Health Insurance Act (1935)" 4 26 11886
+"Alzheimer's disease in African Americans" 4 101 11921
+"American Association for the Study and Prevention of Infant Mortality" 4 37 11222
+"American College of Epidemiology" 4 364 12146
+"American Journal of Public Health and the Nation's Health" 4 440 10632
+"Association of Medical Microbiology and Infectious Disease Canada" 4 31 11354
+"Australian Longitudinal Study on Women's Health" 4 471 11303
+"Australian Measles Control Campaign" 4 162 10866
+"Bangladesh National Nutrition Council" 4 23 10599
+"Belgian Health Care Knowledge Centre" 4 82 10862
+"Busselton Health Study" 4 471 11828
+"Cancer Epidemiology (journal)" 4 37 10800
+"Center for Global Infectious Disease Research" 4 78 12150
+"Children's right to adequate nutrition in New Zealand" 4 28 10553
+"Cinematography in healthcare" 4 57 10400
+"Clinical Epidemiology (journal)" 4 55 12934
+"Committee for Health" 4 82 11501
+"Community Health Clubs in Africa" 4 234 10269
+"Congenital malaria" 4 219 10248
+"Creutzfeldt-Jakob Disease Surveillance System" 4 231 10649
+"Critical Public Health" 4 55 12876
+"Cure Rare Disease" 4 151 11688
+"Defined contribution health benefits" 4 35 12444
+"Directorate of Health" 4 81 10548
+"Emerging Themes in Epidemiology" 4 69 10657
+"Epidemiology and Psychiatric Sciences" 4 42 12812
+"Epidemiology in Country Practice" 4 2643 13088
+"Ethical and Religious Directives for Catholic Health Care Services" 4 705 12749
+"European Working Group for Legionella Infections" 4 162 10595
+"Evolutionary epidemiology" 4 133 11326
+"Gastropod-borne parasitic disease" 4 69 12485
+"GATAD2B-associated neurodevelopmental disorder" 4 88 10233
+"Genetic Epidemiology (journal)" 4 235 12405
+"Global Health Delivery Project" 4 162 12011
+"Global Malaria Action Plan" 4 47 12836
+"Health Data Insight" 4 122 12780
+"Health Information National Trends Survey" 4 35 11917
+"Health Promotion Practice" 4 56 13023
+"Health Security Express" 4 63 10594
+"Health Threat Unit" 4 469 11428
+"Health-related embarrassment" 4 99 12807
+"Healthcare transport" 4 50 10541
+"Infectious Disease (Notification) Act 1889" 4 62 12787
+"Infectious Disease Pharmacokinetics Laboratory" 4 106 12374
+"Institute of Public Health (Bangladesh)" 4 33 11224
+"International Federation of Environmental Health" 4 102 10931
+"International Journal of Men's Health" 4 149 11094
+"International Journal of Public Health" 4 73 12651
+"International Journal of Qualitative Studies on Health and Well-being" 4 56 10558
+"International Network of Health Promoting Hospitals and Health Services" 4 81 11175
+"International Partnership on Avian and Pandemic Influenza" 4 195 11472
+"Iranian Journal of Public Health" 4 147 10417
+"Islam and mental health" 4 62 11843
+"Journal for Healthcare Quality" 4 31 10329
+"Journal of Public Health Management & Practice" 4 41 11508
+"Malaria in the Caribbean" 4 120 10600
+"Malaria No More UK" 4 78 12707
+"Malaria Policy Advisory Committee" 4 653 11766
+"Malnutrition in Zimbabwe" 4 382 11706
+"Malnutrition–inflammation complex" 4 65 10314
+"Mekong Basin Disease Surveillance" 4 34 12716
+"Men's health in Australia" 4 44 10643
+"Mental health in Southeast Africa" 4 52 13030
+"National Health Insurance Fund" 4 78 12170
+"National Perinatal Epidemiology Unit" 4 70 10732
+"National public health institute" 4 106 12714
+"Nature exposure and mental health" 4 79 12537
+"Neuroepidemiology (journal)" 4 24 12331
+"Nutrition and Education International" 4 205 12176
+"Obstacles to receiving mental health services among African American youth" 4 126 11718
+"Paediatric and Perinatal Epidemiology" 4 49 12653
+"Perspectives in Public Health" 4 222 12050
+"Philippine House Committee on Health" 4 97 10901
+"Plague epidemics in Malta" 4 77 12129
+"Population Health Metrics" 4 27 10749
+"Public health policy" 4 199 12509
+"Puerto Rico Administration of Mental Health and Anti-Addiction Services" 4 24 12918
+"Scandinavian Journal of Work, Environment & Health" 4 52 11868
+"Sexual and Reproductive Health Matters" 4 66 12762
+"Sissel v. United States Department of Health & Human Services" 4 1189 12032
+"Smallpox epidemic" 4 81 10861
+"Society of Infectious Diseases Pharmacists" 4 295 13126
+"Swedish Association of Health Professionals" 4 120 11275
+"Template:Eradication of infectious disease" 4 841 11536
+"The European Journal of Health Economics" 4 45 12425
+"Top dying disease" 4 53 11496
+"UK Health Alliance on Climate Change" 4 293 10918
+"Zoonoses and Public Health" 4 38 11222
+"2023 Ohio pneumonia outbreak" 3 602 8263
+"African Nutrition Leadership Programme" 3 68 9210
+"Alzheimer's Disease Cooperative Study" 3 102 8190
+"American Journal of Health Behavior" 3 255 9700
+"Antisemitism in health care" 3 270 8848
+"Asia Pacific Leaders Malaria Alliance" 3 162 9601
+"Australian Journal of Primary Health" 3 37 9221
+"Bangladesh Institute of Child Health" 3 28 8571
+"Buerger disease" 3 20 8045
+"C3 Collaborating for Health" 3 29 7679
+"Centre for Health and International Relations" 3 239 7754
+"CHAI disease" 3 36 8626
+"Child Health and Nutrition Research Initiative" 3 132 9505
+"Child Health International" 3 107 8727
+"Children's Health Protection Advisory Committee" 3 123 9344
+"Choosing Healthplans All Together" 3 51 9544
+"Diarrhoeal disease" 3 55 9512
+"Drug, Healthcare and Patient Safety" 3 25 8463
+"Epidemic polyarthritis" 3 52 8383
+"Epidemiology in Relation to Air Travel" 3 1955 7366
+"EU4Health" 3 422 8623
+"European Health Examination Survey" 3 19 8732
+"European Society for Paediatric Infectious Diseases" 3 128 9242
+"Evaluation & the Health Professions" 3 42 9717
+"Federation of European Nutrition Societies" 3 44 9854
+"Global Action Fund for Fungal Infections" 3 1090 8680
+"Goal-oriented health care" 3 39 9170
+"Gold Coast Influenza Epidemic" 3 264 8312
+"Graduate School of Health Economics and Management" 3 50 8623
+"Health Books International" 3 162 8177
+"Health care efficiency measures" 3 25 7711
+"Health economics (Germany)" 3 23 8857
+"Health Economics, Policy and Law" 3 49 9086
+"Health Insurance Organisation" 3 54 7556
+"Health insurance premium index" 3 52 8645
+"Health Services Workers' Union" 3 93 8730
+"Healthcare chaplaincy" 3 108 9703
+"Healthlink Worldwide" 3 37 9795
+"History of public health in Australia" 3 469 9658
+"History of public health in Canada" 3 425 7528
+"Human Heredity and Health in Africa" 3 115 8029
+"Independent Panel for Pandemic Preparedness and Response" 3 70 7707
+"Institute of Child and Mother Health" 3 101 7491
+"International Centre for Migration and Health" 3 422 7555
+"International Conference on Emerging Infectious Diseases" 3 149 9175
+"International Health (journal)" 3 29 10077
+"International Health Exhibition" 3 139 9639
+"International Journal of Technology Assessment in Health Care" 3 100 9460
+"International Society for Environmental Epidemiology" 3 117 8939
+"International Volcanic Health Hazard Network" 3 60 9071
+"Joondalup Family Health Study" 3 123 7385
+"Journal of Epidemiology" 3 49 8623
+"Journal of Health Management" 3 50 9617
+"Kigali Declaration on Neglected Tropical Diseases" 3 117 7839
+"LGBTI Health Summit" 3 245 8688
+"List of mental disorders in the DSM-IV and DSM-IV-TR (alphabetical)" 3 81 9682
+"Malaria Day in the Americas" 3 169 10064
+"Maternal and Child Health Handbook" 3 103 8123
+"Medical and Health Workers' Union of Nigeria" 3 82 8328
+"Mental Health (Care and Treatment) Act" 3 61 9708
+"National Air Pollution Symposium" 3 61 8940
+"National Health Insurance Authority" 3 143 7326
+"National Primary Health Care Development Agency (Nigeria)" 3 252 7323
+"Nutritional psychiatry" 3 133 8818
+"Outline of the COVID-19 pandemic" 3 98 9578
+"Pneumonia jacket" 3 371 10051
+"Public Health Ethics" 3 47 10109
+"Regional Forum on Environment and Health in Southeast and East Asian Countries" 3 63 8383
+"Science & Environmental Health Network" 3 49 8272
+"Social media use in health awareness" 3 137 9849
+"Social Work in Public Health" 3 63 10043
+"Society and Mental Health" 3 112 9229
+"Spatial and Spatio-temporal Epidemiology" 3 125 7736
+"Standing Committee on Health and Care Services" 3 39 10191
+"Sustainable healthcare" 3 255 10190
+"Template:Disease-stub" 3 32 9880
+"Template:Malaria" 3 1065 9767
+"Template:Plant nutrition" 3 42 7686
+"Tennessee cholera epidemic (1849–1850)" 3 73 7617
+"The Journal of Mental Health Policy and Economics" 3 36 8551
+"The Quiet Epidemic" 3 403 9028
+"Tick-Borne Disease Alliance" 3 33 9754
+"UCSC Malaria Genome Browser" 3 394 9719
+"United States Senate Committee on Public Health and National Quarantine" 3 20 7336
+"WHO Hub for Pandemic and Epidemic Intelligence" 3 119 8507
+"Women Leaders in Global Health Conference" 3 988 7603
+"1626 influenza pandemic" 2 52 7009
+"1782 Influenza pandemic" 2 62 5135
+"1875–1876 Australia scarlet fever epidemic" 2 82 4773
+"1963 Wrocław smallpox epidemic" 2 300 5525
+"African Health Economics and Policy Association" 2 40 6379
+"Biomarkers of Alzheimer's disease" 2 31 4971
+"Canadian Society for Epidemiology and Biostatistics" 2 49 7060
+"Cohorts for Heart and Aging Research in Genomic Epidemiology" 2 40 5453
+"Commission on Accreditation of Healthcare Management Education" 2 36 5251
+"Committee on Health and Welfare" 2 48 5453
+"Connecting Organizations for Regional Disease Surveillance" 2 124 4833
+"Coronavirus pandemic anti-Muslim riots in India" 2 663 5433
+"Cytomegaloviral disease" 2 19 4384
+"Digital health interventions" 2 223 5242
+"Education, Science, Culture and Public Health Committee" 2 45 5641
+"Edward & Cynthia Institute of Public Health" 2 59 5746
+"Epidemics (journal)" 2 86 7250
+"Epidemiology of gonorrhoea" 2 97 7169
+"Evolution, Medicine, and Public Health" 2 31 4425
+"Global Climate and Health Alliance" 2 61 7031
+"Global Health Share Initiative" 2 20 5505
+"Health and Social Protection Federation" 2 31 4653
+"Health benefits of quitting alcohol" 2 222 5113
+"Health Care Compact" 2 19 7245
+"Health care time and motion study" 2 57 4682
+"Health disaster" 2 43 5622
+"Health of Hillary Clinton" 2 15 6809
+"Health, Risk & Society" 2 33 6706
+"Healthcare in Tristan da Cunha" 2 22 5319
+"Healthcare payment" 2 80 6490
+"Healthcare policies of candidates in the 2008 United States presidential election" 2 19 4775
+"Independent mental health advocacy" 2 78 6910
+"Institute of Nutrition of Central America and Panama" 2 49 5691
+"International Society for Infectious Diseases in Obstetrics and Gynaecology" 2 19 6105
+"Irish Nutrition and Dietetic Institute" 2 128 6805
+"Journal of Developmental Origins of Health and Disease" 2 53 6495
+"Journal of Epidemiology and Biostatistics" 2 23 7103
+"Kids for World Health" 2 237 7244
+"Leveraging Agriculture for Improving Nutrition and Health" 2 45 6616
+"Liverpool Neurological Infectious Diseases Course" 2 41 6328
+"Maidstone typhoid epidemic" 2 92 5963
+"Malaria in Benin" 2 39 5429
+"Malaria in Madagascar" 2 39 6046
+"Malnutrition in Nigeria" 2 139 4761
+"Maternal oral health" 2 46 7191
+"Mental health consequences of immigration detention" 2 63 4640
+"Mental health in Malaysia" 2 68 7135
+"Mental health in Uzbekistan" 2 109 7061
+"National Health Insurance Joint Committee" 2 27 5556
+"National Institute of Public Health – National Institute of Hygiene" 2 64 4957
+"National School of Public Health (Spain)" 2 22 6951
+"Notifiable diseases in Switzerland" 2 45 4410
+"Occupational infectious disease" 2 222 5935
+"Osong Public Health and Research Perspectives" 2 59 5887
+"Pando Health" 2 61 7154
+"Portfolio Committee on Health" 2 70 5864
+"Qapqal disease" 2 45 6908
+"Rapid Reviews: Infectious Diseases" 2 49 4875
+"South Texas Center for Emerging Infectious Diseases" 2 44 7235
+"Technology in mental disorder treatment" 2 752 6530
+"Template:Blood-disease-stub" 2 33 6741
+"Template:Ear-disease-stub" 2 14 5080
+"Template:Eye-disease-stub" 2 26 5428
+"Template:Genitourinary-disease-stub" 2 44 5985
+"Template:Infectious-disease-stub" 2 24 6517
+"Template:Mental-health-stub" 2 125 5917
+"Template:Tick-borne diseases and infestations" 2 37 4955
+"Template:Vertically transmitted infection" 2 32 6488
+"The Lancet Global Health" 2 111 6811
+"The Oxcap MH measure of health" 2 61 4830
+"1866 Finnish typhus epidemic" 1 56 3713
+"1934-35 malaria outbreak in Ceylon" 1 90 3005
+"580 dysentery epidemic in Gaul" 1 56 3660
+"Acoustic epidemiology" 1 123 4310
+"Against Malaria Foundation Korea" 1 202 3350
+"Agriculture, Nutrition and Health Academy" 1 202 4174
+"Air pollution in Islamabad" 1 93 3642
+"Air pollution in Peshawar" 1 84 3991
+"Christian Health Association of Malawi" 1 287 3535
+"Climate change and sexual and reproductive health and rights in Africa" 1 69 3654
+"Destruction of the healthcare system" 1 240 4320
+"Disease package" 1 27 3555
+"Edesia Nutrition" 1 74 3249
+"Epidemics Act" 1 119 4318
+"European Health Management Association" 1 25 3315
+"Federation of Health and Social Services" 1 52 3795
+"Health effects of green tea" 1 13 3535
+"Health effects of sugary drinks" 1 21 3422
+"Health emergencies" 1 20 4026
+"Health policy and systems research" 1 94 3066
+"Healthcare reforms proposed during the Obama administration" 1 68 3546
+"History of public health in Chicago" 1 294 3276
+"History of public health in New York City" 1 308 3698
+"Journal of Communication in Healthcare" 1 88 4359
+"Journal of the Academy of Public Health" 1 238 2967
+"Labor Unit of Nurses and Health Employees" 1 42 3116
+"List of Dr Lee Jong-wook Memorial Prize for Public Health recipients" 1 44 3026
+"List of Sasakawa Health Prize recipients" 1 56 3777
+"Medical officer of environmental health" 1 82 3115
+"Mental health in Belize" 1 17 3479
+"Mental health in Haiti" 1 15 3384
+"Mental health in Hong Kong" 1 11 3387
+"Mental health in Indonesia" 1 37 4297
+"Mental health in Lebanon" 1 16 4295
+"Mental health in Liberia" 1 14 3458
+"Mental health in Norway" 1 15 3813
+"Mental health in Pakistan" 1 17 4017
+"Mental health in Senegal" 1 15 3401
+"Mental health in Sierra Leone" 1 13 3405
+"Mental health in Tajikistan" 1 18 3969
+"Mineral Nutrition of Plants: Principles and Perspectives" 1 66 4257
+"Mycoplasma pneumoniae infection" 1 24 3490
+"National Center for Disease Control and Public Health" 1 46 3920
+"National Federation of Local Authority and Healthcare Workers" 1 53 3691
+"Norwegian Association of Health and Social Care Personnel" 1 119 4305
+"Pediatric environmental health" 1 151 3314
+"Pharmacoepidemiology and Drug Safety" 1 46 3450
+"Public Health Institute of Malawi" 1 192 3254
+"Sweating sickness epidemics" 1 7 3922
+"Template:Epidemic-stub" 1 124 4381
+"Template:Gram-positive Actinomycetota diseases" 1 40 4068
+"Tolerated illness" 1 22 3466
+"Typhus epidemic in Goose Village, Montreal" 1 11 3630
+"Unified Health System" 1 100 3945
+"Union of Healthcare" 1 43 3964
+"United to Beat Malaria" 1 33 3978
+"Wikipedia:Knowledge gaps in women's health" 1 56 3051

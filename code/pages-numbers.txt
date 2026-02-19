@@ -1,0 +1,8 @@
+ncol(pageviews_climate_xts)
+# 942 for report
+ncol(pageviews_health_xts)
+# 1276 for report
+
+# 3420 for report, extended analyses
+length(pagenames_health)
+# 11861 for report, extended analyses
